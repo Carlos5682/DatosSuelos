@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Roda_de_Eresma",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xeralf", "color": "#CFA565" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3128749.456309999339283, 2106914.435889999382198 ], [ 3134383.989889998920262, 2106914.435889999382198 ], [ 3134383.989889998920262, 2101898.33751 ], [ 3128749.456309999339283, 2101898.33751 ], [ 3128749.456309999339283, 2106914.435889999382198 ] ] ] } }
+]
+}

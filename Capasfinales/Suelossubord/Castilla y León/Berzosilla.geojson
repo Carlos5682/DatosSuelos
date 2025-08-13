@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Berzosilla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3174140.508199999108911, 2299411.995100000873208 ], [ 3181291.803999999538064, 2299411.995100000873208 ], [ 3181291.803999999538064, 2289743.245100000873208 ], [ 3174140.508199999108911, 2289743.245100000873208 ], [ 3174140.508199999108911, 2299411.995100000873208 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castildelgado",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3244739.940839999355376, 2243986.666460000909865 ], [ 3248721.885560001246631, 2243986.666460000909865 ], [ 3248721.885560001246631, 2240130.926639999262989 ], [ 3244739.940839999355376, 2240130.926639999262989 ], [ 3244739.940839999355376, 2243986.666460000909865 ] ] ] } }
+]
+}

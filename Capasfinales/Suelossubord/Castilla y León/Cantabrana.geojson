@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cantabrana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3220176.722690001130104, 2281808.395709998905659 ], [ 3222637.971510000526905, 2281808.395709998905659 ], [ 3222637.971510000526905, 2278589.599090000614524 ], [ 3220176.722690001130104, 2278589.599090000614524 ], [ 3220176.722690001130104, 2281808.395709998905659 ] ] ] } }
+]
+}

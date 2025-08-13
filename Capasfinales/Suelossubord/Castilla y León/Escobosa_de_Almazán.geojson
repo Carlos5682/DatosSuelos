@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Escobosa_de_Almazán",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3283895.460900000296533, 2131098.319999999366701 ], [ 3294047.155699999071658, 2131098.319999999366701 ], [ 3294047.155699999071658, 2124818.566200000233948 ], [ 3283895.460900000296533, 2124818.566200000233948 ], [ 3283895.460900000296533, 2131098.319999999366701 ] ] ] } }
+]
+}

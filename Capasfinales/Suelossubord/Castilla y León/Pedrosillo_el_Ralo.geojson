@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pedrosillo_el_Ralo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xeralf", "color": "#CFA565" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3015546.951699999161065, 2132294.2714 ], [ 3020312.130299999378622, 2132294.2714 ], [ 3020312.130299999378622, 2127971.884200000204146 ], [ 3015546.951699999161065, 2127971.884200000204146 ], [ 3015546.951699999161065, 2132294.2714 ] ] ] } }
+]
+}
