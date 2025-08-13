@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Churriana_de_la_Vega",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3104305.004710000939667, 1674977.050089999102056 ], [ 3108546.62739, 1674977.050089999102056 ], [ 3108546.62739, 1669520.145909999497235 ], [ 3104305.004710000939667, 1669520.145909999497235 ], [ 3104305.004710000939667, 1674977.050089999102056 ] ] ] } }
+]
+}

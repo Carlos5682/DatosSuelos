@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Senés_de_Alcubierre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3444364.45541, 2152613.086689999327064 ], [ 3452905.128590000793338, 2152613.086689999327064 ], [ 3452905.128590000793338, 2146650.229310000315309 ], [ 3444364.45541, 2146650.229310000315309 ], [ 3444364.45541, 2152613.086689999327064 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Almolda,_La",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3453772.755800000857562, 2115746.544599999208003 ], [ 3476313.513000000733882, 2115746.544599999208003 ], [ 3476313.513000000733882, 2098940.6017 ], [ 3453772.755800000857562, 2098940.6017 ], [ 3453772.755800000857562, 2115746.544599999208003 ] ] ] } }
+]
+}

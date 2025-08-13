@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Torre-Cardela",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3132476.849774999078363, 1708782.533225000370294 ], [ 3141580.684124999213964, 1708782.533225000370294 ], [ 3141580.684124999213964, 1702415.116974999662489 ], [ 3132476.849774999078363, 1702415.116974999662489 ], [ 3132476.849774999078363, 1708782.533225000370294 ] ] ] } }
+]
+}

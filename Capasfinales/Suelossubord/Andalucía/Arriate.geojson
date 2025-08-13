@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Arriate",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2965573.569425000343472, 1661570.031574999447912 ], [ 2971116.715475, 1661570.031574999447912 ], [ 2971116.715475, 1656739.45642500044778 ], [ 2965573.569425000343472, 1656739.45642500044778 ], [ 2965573.569425000343472, 1661570.031574999447912 ] ] ] } }
+]
+}
