@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pinilla_de_Jadraque",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3230773.195444999262691, 2087387.892755000153556 ], [ 3236246.496154999360442, 2087387.892755000153556 ], [ 3236246.496154999360442, 2081514.066744999727234 ], [ 3230773.195444999262691, 2081514.066744999727234 ], [ 3230773.195444999262691, 2087387.892755000153556 ] ] ] } }
+]
+}

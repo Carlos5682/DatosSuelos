@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Linyola",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Aridisol", "color": "#F39F86" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3558212.48141, 2117781.124189999420196 ], [ 3566072.246089999098331, 2117781.124189999420196 ], [ 3566072.246089999098331, 2108770.651809999253601 ], [ 3558212.48141, 2108770.651809999253601 ], [ 3558212.48141, 2117781.124189999420196 ] ] ] } }
+]
+}

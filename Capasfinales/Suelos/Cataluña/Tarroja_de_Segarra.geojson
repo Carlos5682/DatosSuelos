@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Tarroja_de_Segarra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3591802.369940001051873, 2113759.56065999949351 ], [ 3596411.285759998951107, 2113759.56065999949351 ], [ 3596411.285759998951107, 2107646.593540001194924 ], [ 3591802.369940001051873, 2107646.593540001194924 ], [ 3591802.369940001051873, 2113759.56065999949351 ] ] ] } }
+]
+}

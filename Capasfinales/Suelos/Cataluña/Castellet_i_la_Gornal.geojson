@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castellet_i_la_Gornal",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3611678.112500000279397, 2064238.251100000459701 ], [ 3625351.151099998969585, 2064238.251100000459701 ], [ 3625351.151099998969585, 2051104.849899999331683 ], [ 3611678.112500000279397, 2051104.849899999331683 ], [ 3611678.112500000279397, 2064238.251100000459701 ] ] ] } }
+]
+}

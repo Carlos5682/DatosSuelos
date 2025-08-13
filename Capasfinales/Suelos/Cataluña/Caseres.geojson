@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Caseres",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Aridisol", "color": "#F39F86" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3496001.185859999153763, 2052131.2557399997022 ], [ 3509499.927739999722689, 2052131.2557399997022 ], [ 3509499.927739999722689, 2040395.95936 ], [ 3496001.185859999153763, 2040395.95936 ], [ 3496001.185859999153763, 2052131.2557399997022 ] ] ] } }
+]
+}

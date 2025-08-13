@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vilalba_Sasserra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3688985.288855, 2093935.83284500031732 ], [ 3694494.69184499932453, 2093935.83284500031732 ], [ 3694494.69184499932453, 2089366.740055000642315 ], [ 3688985.288855, 2089366.740055000642315 ], [ 3688985.288855, 2093935.83284500031732 ] ] ] } }
+]
+}

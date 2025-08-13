@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Palau-sator",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3747125.09660500055179, 2126905.693695 ], [ 3752248.297395000699908, 2126905.693695 ], [ 3752248.297395000699908, 2120489.352205000352114 ], [ 3747125.09660500055179, 2120489.352205000352114 ], [ 3747125.09660500055179, 2126905.693695 ] ] ] } }
+]
+}

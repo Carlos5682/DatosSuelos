@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Guim_de_Freixenet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3600302.258895, 2106681.6767049995251 ], [ 3608697.835105000529438, 2106681.6767049995251 ], [ 3608697.835105000529438, 2098278.649995000567287 ], [ 3600302.258895, 2098278.649995000567287 ], [ 3600302.258895, 2106681.6767049995251 ] ] ] } }
+]
+}

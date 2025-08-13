@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Málaga_del_Fresno",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Alfisol", "color": "#CFA565" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3200108.901095, 2067430.078304999507964 ], [ 3209323.926004999317229, 2067430.078304999507964 ], [ 3209323.926004999317229, 2058695.59449499938637 ], [ 3200108.901095, 2058695.59449499938637 ], [ 3200108.901095, 2067430.078304999507964 ] ] ] } }
+]
+}

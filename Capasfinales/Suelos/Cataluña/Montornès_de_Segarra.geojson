@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Montornès_de_Segarra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3582695.823285000398755, 2100399.774614999070764 ], [ 3591923.153215000405908, 2100399.774614999070764 ], [ 3591923.153215000405908, 2095238.051984999096021 ], [ 3582695.823285000398755, 2095238.051984999096021 ], [ 3582695.823285000398755, 2100399.774614999070764 ] ] ] } }
+]
+}

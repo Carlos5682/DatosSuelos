@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Medranda",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3230668.707690000999719, 2083110.95181 ], [ 3236020.679510000627488, 2083110.95181 ], [ 3236020.679510000627488, 2078248.578390000853688 ], [ 3230668.707690000999719, 2078248.578390000853688 ], [ 3230668.707690000999719, 2083110.95181 ] ] ] } }
+]
+}

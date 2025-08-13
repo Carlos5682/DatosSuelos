@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Negredo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3237362.730265000835061, 2087323.833635000512004 ], [ 3244313.906834999099374, 2087323.833635000512004 ], [ 3244313.906834999099374, 2081194.503165001049638 ], [ 3237362.730265000835061, 2081194.503165001049638 ], [ 3237362.730265000835061, 2087323.833635000512004 ] ] ] } }
+]
+}

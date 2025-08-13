@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Puigdàlber",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3625021.90260500041768, 2072469.700794999022037 ], [ 3626065.818295000586659, 2072469.700794999022037 ], [ 3626065.818295000586659, 2071357.320305000524968 ], [ 3625021.90260500041768, 2071357.320305000524968 ], [ 3625021.90260500041768, 2072469.700794999022037 ] ] ] } }
+]
+}

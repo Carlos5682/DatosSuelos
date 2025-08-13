@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Pere_de_Riudebitlles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3624021.298579999711365, 2080058.65112 ], [ 3627880.80951999919489, 2080058.65112 ], [ 3627880.80951999919489, 2075890.556279999669641 ], [ 3624021.298579999711365, 2075890.556279999669641 ], [ 3624021.298579999711365, 2080058.65112 ] ] ] } }
+]
+}

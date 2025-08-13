@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Andreu_de_la_Barca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3646314.228670001029968, 2076720.992729999357834 ], [ 3650373.50753, 2076720.992729999357834 ], [ 3650373.50753, 2073015.402569999685511 ], [ 3646314.228670001029968, 2073015.402569999685511 ], [ 3646314.228670001029968, 2076720.992729999357834 ] ] ] } }
+]
+}

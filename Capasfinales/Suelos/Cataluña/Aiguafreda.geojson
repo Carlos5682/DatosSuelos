@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Aiguafreda",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3674462.590800000820309, 2111600.855 ], [ 3679548.329199999105185, 2111600.855 ], [ 3679548.329199999105185, 2105840.630400000605732 ], [ 3674462.590800000820309, 2105840.630400000605732 ], [ 3674462.590800000820309, 2111600.855 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Oluges,_Les",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3594359.187090000137687, 2110565.98391 ], [ 3603664.178109999746084, 2110565.98391 ], [ 3603664.178109999746084, 2103605.819390000775456 ], [ 3594359.187090000137687, 2103605.819390000775456 ], [ 3594359.187090000137687, 2110565.98391 ] ] ] } }
+]
+}

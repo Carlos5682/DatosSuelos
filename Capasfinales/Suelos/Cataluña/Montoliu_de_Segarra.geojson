@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Montoliu_de_Segarra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3585870.950994999613613, 2101324.202804999891669 ], [ 3597635.075704999733716, 2101324.202804999891669 ], [ 3597635.075704999733716, 2092263.807594999205321 ], [ 3585870.950994999613613, 2092263.807594999205321 ], [ 3585870.950994999613613, 2101324.202804999891669 ] ] ] } }
+]
+}

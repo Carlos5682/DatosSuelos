@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bovera",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3530293.499154998920858, 2077220.420945000601932 ], [ 3542571.136345, 2077220.420945000601932 ], [ 3542571.136345, 2068626.402354999678209 ], [ 3530293.499154998920858, 2068626.402354999678209 ], [ 3530293.499154998920858, 2077220.420945000601932 ] ] ] } }
+]
+}

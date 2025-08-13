@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Morell,_El",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3578558.587175000924617, 2056501.085024998988956 ], [ 3585336.700724999886006, 2056501.085024998988956 ], [ 3585336.700724999886006, 2052049.999375001061708 ], [ 3578558.587175000924617, 2052049.999375001061708 ], [ 3578558.587175000924617, 2056501.085024998988956 ] ] ] } }
+]
+}

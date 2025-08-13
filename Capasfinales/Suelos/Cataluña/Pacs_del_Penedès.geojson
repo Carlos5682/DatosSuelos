@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pacs_del_Penedès",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3620365.337080000434071, 2069054.88072 ], [ 3624757.021519999485463, 2069054.88072 ], [ 3624757.021519999485463, 2065278.938579999608919 ], [ 3620365.337080000434071, 2065278.938579999608919 ], [ 3620365.337080000434071, 2069054.88072 ] ] ] } }
+]
+}

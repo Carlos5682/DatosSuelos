@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Fornells_de_la_Selva",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3721114.541915000416338, 2123073.738385000266135 ], [ 3726474.152685000561178, 2123073.738385000266135 ], [ 3726474.152685000561178, 2117634.990914999507368 ], [ 3721114.541915000416338, 2117634.990914999507368 ], [ 3721114.541915000416338, 2123073.738385000266135 ] ] ] } }
+]
+}

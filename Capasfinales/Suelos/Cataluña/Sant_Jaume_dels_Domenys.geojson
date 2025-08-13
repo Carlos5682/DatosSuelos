@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Jaume_dels_Domenys",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3608317.132589999120682, 2067477.958810000214726 ], [ 3616886.11681, 2067477.958810000214726 ], [ 3616886.11681, 2058772.32499000011012 ], [ 3608317.132589999120682, 2058772.32499000011012 ], [ 3608317.132589999120682, 2067477.958810000214726 ] ] ] } }
+]
+}

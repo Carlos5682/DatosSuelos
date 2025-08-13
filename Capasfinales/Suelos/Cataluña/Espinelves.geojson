@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Espinelves",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3687355.272059999406338, 2120568.761339999735355 ], [ 3694208.364539999514818, 2120568.761339999735355 ], [ 3694208.364539999514818, 2113857.394759999588132 ], [ 3687355.272059999406338, 2113857.394759999588132 ], [ 3687355.272059999406338, 2120568.761339999735355 ] ] ] } }
+]
+}

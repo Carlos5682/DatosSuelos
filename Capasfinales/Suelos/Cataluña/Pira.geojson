@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pira",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3581342.438925, 2081116.054974999278784 ], [ 3585986.594374999403954, 2081116.054974999278784 ], [ 3585986.594374999403954, 2075179.57052499987185 ], [ 3581342.438925, 2075179.57052499987185 ], [ 3581342.438925, 2081116.054974999278784 ] ] ] } }
+]
+}
