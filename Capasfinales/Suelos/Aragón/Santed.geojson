@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santed",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Aridisol", "color": "#F39F86" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3348058.206509999465197, 2070655.043490000534803 ], [ 3356834.62169, 2070655.043490000534803 ], [ 3356834.62169, 2063306.133410000707954 ], [ 3348058.206509999465197, 2063306.133410000707954 ], [ 3348058.206509999465197, 2070655.043490000534803 ] ] ] } }
+]
+}

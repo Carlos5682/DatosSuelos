@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Nava_de_Béjar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2992703.626800000201911, 2071933.13590000057593 ], [ 2999959.540399998892099, 2071933.13590000057593 ], [ 2999959.540399998892099, 2066401.360100000631064 ], [ 2992703.626800000201911, 2066401.360100000631064 ], [ 2992703.626800000201911, 2071933.13590000057593 ] ] ] } }
+]
+}

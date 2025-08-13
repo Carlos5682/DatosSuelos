@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castejón_del_Puente",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3497403.806379999499768, 2152747.448220000136644 ], [ 3507959.765820000786334, 2152747.448220000136644 ], [ 3507959.765820000786334, 2144606.153380000498146 ], [ 3497403.806379999499768, 2144606.153380000498146 ], [ 3497403.806379999499768, 2152747.448220000136644 ] ] ] } }
+]
+}

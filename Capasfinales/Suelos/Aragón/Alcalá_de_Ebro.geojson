@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Alcalá_de_Ebro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3389227.908365000505, 2150825.610035 ], [ 3395089.011534999590367, 2150825.610035 ], [ 3395089.011534999590367, 2145659.42466500075534 ], [ 3389227.908365000505, 2145659.42466500075534 ], [ 3389227.908365000505, 2150825.610035 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Casas_del_Conde,_Las",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2965326.977440000511706, 2079667.44326 ], [ 2967260.82835999969393, 2079667.44326 ], [ 2967260.82835999969393, 2077224.313740001060069 ], [ 2965326.977440000511706, 2077224.313740001060069 ], [ 2965326.977440000511706, 2079667.44326 ] ] ] } }
+]
+}

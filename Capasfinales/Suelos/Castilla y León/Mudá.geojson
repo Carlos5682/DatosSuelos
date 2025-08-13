@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Mudá",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3146607.118180000223219, 2311478.05162 ], [ 3151599.641819999553263, 2311478.05162 ], [ 3151599.641819999553263, 2307273.286680000834167 ], [ 3146607.118180000223219, 2307273.286680000834167 ], [ 3146607.118180000223219, 2311478.05162 ] ] ] } }
+]
+}

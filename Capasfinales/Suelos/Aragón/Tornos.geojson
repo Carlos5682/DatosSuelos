@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Tornos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Aridisol", "color": "#F39F86" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3353502.717875, 2060770.927725000306964 ], [ 3365280.379224998876452, 2060770.927725000306964 ], [ 3365280.379224998876452, 2050845.286274999380112 ], [ 3353502.717875, 2050845.286274999380112 ], [ 3353502.717875, 2060770.927725000306964 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Viñegra_de_Moraña",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3063529.556734999641776, 2099258.993865 ], [ 3068486.223065, 2099258.993865 ], [ 3068486.223065, 2094237.56823500059545 ], [ 3063529.556734999641776, 2094237.56823500059545 ], [ 3063529.556734999641776, 2099258.993865 ] ] ] } }
+]
+}

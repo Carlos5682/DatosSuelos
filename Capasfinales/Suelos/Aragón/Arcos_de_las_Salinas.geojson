@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Arcos_de_las_Salinas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3364244.224349999800324, 1958412.689950000494719 ], [ 3384419.107650000602007, 1958412.689950000494719 ], [ 3384419.107650000602007, 1941433.904349999502301 ], [ 3364244.224349999800324, 1941433.904349999502301 ], [ 3364244.224349999800324, 1958412.689950000494719 ] ] ] } }
+]
+}

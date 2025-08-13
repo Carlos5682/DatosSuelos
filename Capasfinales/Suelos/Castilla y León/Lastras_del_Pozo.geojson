@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Lastras_del_Pozo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3110883.641525000333786, 2093856.384575000265613 ], [ 3122042.886374998837709, 2093856.384575000265613 ], [ 3122042.886374998837709, 2083474.305324999382719 ], [ 3110883.641525000333786, 2083474.305324999382719 ], [ 3110883.641525000333786, 2093856.384575000265613 ] ] ] } }
+]
+}

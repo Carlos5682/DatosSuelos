@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Brincones",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2951192.581855000462383, 2153970.634845000226051 ], [ 2957033.316845000255853, 2153970.634845000226051 ], [ 2957033.316845000255853, 2146458.828855 ], [ 2951192.581855000462383, 2146458.828855 ], [ 2951192.581855000462383, 2153970.634845000226051 ] ] ] } }
+]
+}

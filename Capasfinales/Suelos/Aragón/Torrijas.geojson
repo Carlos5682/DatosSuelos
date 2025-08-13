@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Torrijas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3378163.60585, 1955797.226549999788404 ], [ 3390881.302750000730157, 1955797.226549999788404 ], [ 3390881.302750000730157, 1939234.442649999633431 ], [ 3378163.60585, 1939234.442649999633431 ], [ 3378163.60585, 1955797.226549999788404 ] ] ] } }
+]
+}

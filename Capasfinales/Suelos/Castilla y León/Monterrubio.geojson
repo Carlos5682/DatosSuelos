@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Monterrubio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3107232.76729999948293, 2090550.844099999405444 ], [ 3116505.953300000168383, 2090550.844099999405444 ], [ 3116505.953300000168383, 2083351.3679 ], [ 3107232.76729999948293, 2083351.3679 ], [ 3107232.76729999948293, 2090550.844099999405444 ] ] ] } }
+]
+}

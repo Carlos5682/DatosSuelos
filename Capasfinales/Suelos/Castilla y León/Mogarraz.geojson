@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Mogarraz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2962173.171804999001324, 2080862.243394999532029 ], [ 2967482.794695000164211, 2080862.243394999532029 ], [ 2967482.794695000164211, 2075891.899804999353364 ], [ 2962173.171804999001324, 2075891.899804999353364 ], [ 2962173.171804999001324, 2080862.243394999532029 ] ] ] } }
+]
+}

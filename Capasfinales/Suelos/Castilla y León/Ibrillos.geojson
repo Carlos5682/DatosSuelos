@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ibrillos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3245916.653915000613779, 2246328.685685 ], [ 3250177.645584999118, 2246328.685685 ], [ 3250177.645584999118, 2242086.779715001117438 ], [ 3245916.653915000613779, 2242086.779715001117438 ], [ 3245916.653915000613779, 2246328.685685 ] ] ] } }
+]
+}

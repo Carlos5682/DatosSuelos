@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castejón_de_Tornos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Aridisol", "color": "#F39F86" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3354397.494230000302196, 2065966.743569999700412 ], [ 3364792.676170000806451, 2065966.743569999700412 ], [ 3364792.676170000806451, 2057373.054029999533668 ], [ 3354397.494230000302196, 2057373.054029999533668 ], [ 3354397.494230000302196, 2065966.743569999700412 ] ] ] } }
+]
+}
