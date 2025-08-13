@@ -35,70 +35,58 @@ suelosdisueltos <- suelos %>%
 
 suelosreproy <-  st_transform(suelosdisueltos, 3035)
 
+suelosreproy$orden <- paste0(
+  toupper(substr(suelosreproy$orden, 1, 1)),
+  tolower(substr(suelosreproy$orden, 2, nchar(suelosreproy$orden)))
+)
+
+
 ####------------------1.1.5 Personalizar leyenda------------------
-#Colores de leyenda extraidos de: https://mapas.igme.es/gis/rest/services/Cartografia_Geologica/IGME_Litologias_1M/MapServer
-leyenda_litologia <- data.frame(
-  litologia = c(
-    "Otros granitoides",
-    "Granitoides de dos micas",
-    "Serpentinitas y peridotitas. Rocas básicas y ultrabásicas",
-    "Micaesquistos, filitas, areniscas, mármoles, calizas, dolomías y margas",
-    "Cuarcitas, pizarras, areniscas y calizas",
-    "Areniscas, pizarras y calizas",
-    "Gneisses",
-    "Pizarras, grauwackas, cuarcitas y conglomerados",
-    "Conglomerados, areniscas, arcillas y calizas. Evaporitas",
-    "Dolomías, calizas y margas. Areniscas",
-    "Gravas, conglomerados, arenas y limos",
-    "Areniscas, conglomerados, arcillas; calizas y evaporitas",
-    "Conglomerados, areniscas, calizas, yesos y arcillas versicolores",
-    "Calizas, dolomías y margas. Areniscas y conglomerados",
-    "Conglomerados, areniscas, pizarras y calizas. Carbón",
-    "Calizas detríticas, calcarenitas, margas, arcillas y calizas",
-    "Migmatitas, mármoles y granitoides indiferenciados",
-    "Conglomerados, areniscas y lutitas",
-    "Sin datos",
-    "Vulcanitas y rocas volcanoclásticas"
+#Para los colores de la leyenda se tomó el color del suborden mayoritario del mapa de suelos de españa desarrollado por el IGN 
+
+leyenda_suelos <- data.frame(
+  orden = c(
+    "Alfisol",
+    "Andisol",
+    "Aridisol",
+    "Entisol",
+    "Histosol",
+    "Inceptisol",
+    "Mollisol", 
+    "Spodosol", 
+    "Ultisol", 
+    "Vertisol"
+    
   ),
   color = c(
-    "#ff0080",  # Otros granitoides
-    "#e60000",  # Granitoides de dos micas
-    "#0070ff",  # Serpentinitas
-    "#0084a8",  # Micaesquistos
-    "#98e600",  # Cuarcitas
-    "#ffdb00",  # Areniscas,pizarras
-    "#a900e6",  # gneisses
-    "#ff73df",  # pizzaras 
-    "#e6b300",  # Conglomerados.....evaporitas
-    "#00a9e6",  # Dolomias
-    "#ffe6bf",  # Gravas
-    "#e6b300",  # Areniscas, conglomerados
-    "#ffbebe",  # Conglomerados......versicolores
-    "#9bdfff",  # Calizas, dolomias y margas....
-    "#9c9c9c",  # Conglomerados, areniscas....carbon
-    "#ffd37f",  # Calizas detriticas
-    "#d95900",  # Migmatitas
-    "#cc5900",  # rosa oscuro (lutitas)
-    "grey80",  #Sin datos  
-    "#0042cc"   # púrpura (volcánicas)
+    "#CFA565",  
+    "#289FD5",
+    "#F39F86",
+    "#ACD19C",
+    "#8D9686",
+    "#FBF6BA",
+    "#F098A5",
+    "#A8B8BE",
+    "#8498C9",
+    "#DFCCE2"
   ),
   stringsAsFactors = FALSE
 )
 
 
-litologiafinal <- left_join(litpenreproy, leyenda_litologia, by = c("LITOLOGIA" = "litologia"))
+suelosfinal <- left_join(suelosreproy, leyenda_suelos, by = c("orden" = "orden"))
 
 ####------------------1.1.6 Guardar capa final-------------------
 
-st_write(litologiafinal, 
-         dsn = "Datos/Datoscorregidos/Litologiacorregido/litologiacorregido.gpkg", 
+st_write(suelosfinal, 
+         dsn = "Datos/Datoscorregidos/Sueloscorregido/sueloscorregido.gpkg", 
          driver = "GPKG", 
          delete_layer = TRUE)
 
 
 ##---------------------------------------1.2 Bucle para las comunidades autonomas------------------------------------
 
-litologiafinal <- st_read("Datos/Datoscorregidos/Litologiacorregido/litologiacorregido.gpkg")
+suelosfinal <- st_read("Datos/Datoscorregidos/Sueloscorregido/sueloscorregido.gpkg")
 
 ####-------------1.2.1 Obtener comunidades autónomas---------
 ccaa_sf <- esp_get_ccaa(moveCAN = FALSE, epsg = 3035)
@@ -137,10 +125,10 @@ for (i in 1:nrow(ccaa_sf)) {
   bbox_poly <- st_as_sfc(st_bbox(bbox_expandida, crs = st_crs(ccaa_geom)))
   
   ####----------1.2.4 Intersección con polígono--------------
-  lit_crop <- st_intersection(litologiafinal, bbox_poly)
+  suelos_crop <- st_intersection(suelosfinal, bbox_poly)
   
   ####------------1.2.5 Guardar como GeoPackage---------------
-  st_write(lit_crop, paste0("Datos/DatosporComunidad/Litologia/", nombre_ccaa, ".gpkg"), delete_dsn = TRUE)
+  st_write(suelos_crop, paste0("Datos/DatosporComunidad/Suelos/", nombre_ccaa, ".gpkg"), delete_dsn = TRUE)
 }
 
 
@@ -154,7 +142,7 @@ options(future.globals.maxSize = 2 * 1024^3)
 parallel::detectCores() #Detectamos cuantos nucleos tenemos
 future::availableCores() #Cuantos nucleos estan disponibles para ser usaros
 
-plan(multisession, workers = 7)
+plan(multisession, workers = 12)
 
 ##-----------------------------2.2 Obtener municipios-----------------------
 municipios <- esp_get_munic(moveCAN = FALSE, epsg = 3035)
@@ -180,16 +168,16 @@ procesar_comunidad <- function(comunidad_objetivo) {
   
   ###-----------------------2.4.3 Ruta de litologia por comunidad---------------
   
-  lit_path <- paste0("Datos/DatosporComunidad/Litologia/", comunidad_objetivo, ".gpkg")
-  dir_out <- paste0("Capasfinales/Litologia/", comunidad_objetivo)
+  lit_path <- paste0("Datos/DatosporComunidad/Suelos/", comunidad_objetivo, ".gpkg")
+  dir_out <- paste0("Capasfinales/Suelos/", comunidad_objetivo)
   
   if (!file.exists(lit_path)) {
-    return(paste0("⚠ Archivo litologia no encontrado para ", comunidad_objetivo))
+    return(paste0("⚠ Archivo suelos no encontrado para ", comunidad_objetivo))
   }
   
   dir.create(dir_out, showWarnings = FALSE, recursive = TRUE)
   
-  ###-----------------------2.4.4 Leer litologias---------------------------------
+  ###-----------------------2.4.4 Leer suelos---------------------------------
   lit_ccaa <- st_read(lit_path, quiet = TRUE)
   
   resultados <- vector("list", nrow(municipios_comunidad))
