@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Real_de_Gandia,_el",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3431896.21404500072822, 1823471.280755000654608 ], [ 3436315.191855000797659, 1823471.280755000654608 ], [ 3436315.191855000797659, 1819984.162344999145716 ], [ 3431896.21404500072822, 1819984.162344999145716 ], [ 3431896.21404500072822, 1823471.280755000654608 ] ] ] } }
+]
+}

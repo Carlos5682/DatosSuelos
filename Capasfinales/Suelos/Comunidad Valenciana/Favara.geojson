@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Favara",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3424959.893034999724478, 1843979.394965000916272 ], [ 3431017.452465, 1843979.394965000916272 ], [ 3431017.452465, 1838845.972334999125451 ], [ 3424959.893034999724478, 1838845.972334999125451 ], [ 3424959.893034999724478, 1843979.394965000916272 ] ] ] } }
+]
+}

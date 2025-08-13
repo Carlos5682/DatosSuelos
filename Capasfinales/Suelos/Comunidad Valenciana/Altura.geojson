@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Altura",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3404262.76501000020653, 1929488.984289999119937 ], [ 3423353.533589999191463, 1929488.984289999119937 ], [ 3423353.533589999191463, 1911168.82001 ], [ 3404262.76501000020653, 1911168.82001 ], [ 3404262.76501000020653, 1929488.984289999119937 ] ] ] } }
+]
+}

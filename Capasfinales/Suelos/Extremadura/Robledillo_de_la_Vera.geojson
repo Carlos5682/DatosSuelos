@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Robledillo_de_la_Vera",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2992610.641395000740886, 2027599.758604999631643 ], [ 2998717.795205000787973, 2027599.758604999631643 ], [ 2998717.795205000787973, 2021074.113894999027252 ], [ 2992610.641395000740886, 2021074.113894999027252 ], [ 2992610.641395000740886, 2027599.758604999631643 ] ] ] } }
+]
+}

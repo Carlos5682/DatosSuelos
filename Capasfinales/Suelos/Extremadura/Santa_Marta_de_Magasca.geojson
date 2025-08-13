@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Marta_de_Magasca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2935346.772210000548512, 1976764.688590000849217 ], [ 2946794.975489999633282, 1976764.688590000849217 ], [ 2946794.975489999633282, 1964974.064810000825673 ], [ 2935346.772210000548512, 1964974.064810000825673 ], [ 2935346.772210000548512, 1976764.688590000849217 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Massalavés",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3407611.773039999883622, 1850409.905560000101104 ], [ 3411922.35526, 1850409.905560000101104 ], [ 3411922.35526, 1845704.770840000128374 ], [ 3407611.773039999883622, 1845704.770840000128374 ], [ 3407611.773039999883622, 1850409.905560000101104 ] ] ] } }
+]
+}

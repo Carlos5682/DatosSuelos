@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Segart",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3426411.152669999282807, 1906192.738329999614507 ], [ 3430731.166129999328405, 1906192.738329999614507 ], [ 3430731.166129999328405, 1901460.30907 ], [ 3426411.152669999282807, 1901460.30907 ], [ 3426411.152669999282807, 1906192.738329999614507 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Tavernes_Blanques",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3426941.97552999900654, 1885778.035470000933856 ], [ 3428480.886670000385493, 1885778.035470000933856 ], [ 3428480.886670000385493, 1884376.079529999289662 ], [ 3426941.97552999900654, 1884376.079529999289662 ], [ 3426941.97552999900654, 1885778.035470000933856 ] ] ] } }
+]
+}

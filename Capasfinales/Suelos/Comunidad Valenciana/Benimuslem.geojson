@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Benimuslem",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3409852.584904999472201, 1847717.871595 ], [ 3413069.397094999440014, 1847717.871595 ], [ 3413069.397094999440014, 1843977.226505001075566 ], [ 3409852.584904999472201, 1843977.226505001075566 ], [ 3409852.584904999472201, 1847717.871595 ] ] ] } }
+]
+}

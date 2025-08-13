@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Estivella",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3425693.887170000467449, 1910704.9894300007727 ], [ 3435068.23423, 1910704.9894300007727 ], [ 3435068.23423, 1904340.046469999710098 ], [ 3425693.887170000467449, 1904340.046469999710098 ], [ 3425693.887170000467449, 1910704.9894300007727 ] ] ] } }
+]
+}

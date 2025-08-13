@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Paiporta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3420908.764085, 1878150.831015000818297 ], [ 3423740.230914999265224, 1878150.831015000818297 ], [ 3423740.230914999265224, 1874743.972885000752285 ], [ 3420908.764085, 1874743.972885000752285 ], [ 3420908.764085, 1878150.831015000818297 ] ] ] } }
+]
+}

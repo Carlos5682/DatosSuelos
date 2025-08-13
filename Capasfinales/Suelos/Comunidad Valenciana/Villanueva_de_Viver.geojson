@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Villanueva_de_Viver",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3409123.103240001015365, 1950931.948959999717772 ], [ 3413828.669559999369085, 1950931.948959999717772 ], [ 3413828.669559999369085, 1946577.796240000985563 ], [ 3409123.103240001015365, 1946577.796240000985563 ], [ 3409123.103240001015365, 1950931.948959999717772 ] ] ] } }
+]
+}

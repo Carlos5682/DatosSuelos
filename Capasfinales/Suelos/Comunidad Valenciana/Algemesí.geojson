@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Algemesí",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3413491.194264999125153, 1858507.635235 ], [ 3424282.422634999733418, 1858507.635235 ], [ 3424282.422634999733418, 1847857.286465000826865 ], [ 3413491.194264999125153, 1847857.286465000826865 ], [ 3413491.194264999125153, 1858507.635235 ] ] ] } }
+]
+}

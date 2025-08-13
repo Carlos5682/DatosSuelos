@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Godella",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3419948.865355000365525, 1892603.782844999572262 ], [ 3425709.226744999643415, 1892603.782844999572262 ], [ 3425709.226744999643415, 1884920.899455 ], [ 3419948.865355000365525, 1884920.899455 ], [ 3419948.865355000365525, 1892603.782844999572262 ] ] ] } }
+]
+}

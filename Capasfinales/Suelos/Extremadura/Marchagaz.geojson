@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Marchagaz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2939063.759805000852793, 2059606.727194999111816 ], [ 2943956.204894999507815, 2059606.727194999111816 ], [ 2943956.204894999507815, 2055179.752505 ], [ 2939063.759805000852793, 2055179.752505 ], [ 2939063.759805000852793, 2059606.727194999111816 ] ] ] } }
+]
+}

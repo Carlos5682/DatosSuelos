@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pedreguer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3447540.774035000707954, 1806125.594064999837428 ], [ 3456832.283665, 1806125.594064999837428 ], [ 3456832.283665, 1797763.636634999420494 ], [ 3447540.774035000707954, 1797763.636634999420494 ], [ 3447540.774035000707954, 1806125.594064999837428 ] ] ] } }
+]
+}

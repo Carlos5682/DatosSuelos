@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Casar_de_Palomero",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2934760.437199999578297, 2063567.401700000278652 ], [ 2952886.955999999307096, 2063567.401700000278652 ], [ 2952886.955999999307096, 2051862.65470000077039 ], [ 2934760.437199999578297, 2051862.65470000077039 ], [ 2934760.437199999578297, 2063567.401700000278652 ] ] ] } }
+]
+}

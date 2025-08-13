@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sancti-Spíritus",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3001797.624255000147969, 1896979.710744998883456 ], [ 3011822.333044999744743, 1896979.710744998883456 ], [ 3011822.333044999744743, 1885706.955355000216514 ], [ 3001797.624255000147969, 1885706.955355000216514 ], [ 3001797.624255000147969, 1896979.710744998883456 ] ] ] } }
+]
+}

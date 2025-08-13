@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Zarza-Capilla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2998936.32736, 1883477.827140000183135 ], [ 3014579.223439999390393, 1883477.827140000183135 ], [ 3014579.223439999390393, 1864042.90826000040397 ], [ 2998936.32736, 1864042.90826000040397 ], [ 2998936.32736, 1883477.827140000183135 ] ] ] } }
+]
+}
