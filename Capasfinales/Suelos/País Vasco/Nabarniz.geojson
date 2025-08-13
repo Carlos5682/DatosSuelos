@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Nabarniz",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3300279.187855000142008, 2334433.493545000907034 ], [ 3305705.143845000769943, 2334433.493545000907034 ], [ 3305705.143845000769943, 2329066.99595500016585 ], [ 3300279.187855000142008, 2329066.99595500016585 ], [ 3300279.187855000142008, 2334433.493545000907034 ] ] ] } }
+]
+}

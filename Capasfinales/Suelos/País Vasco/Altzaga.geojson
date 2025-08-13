@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Altzaga",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3332014.699329998809844, 2299349.767070000525564 ], [ 3334516.703869999852031, 2299349.767070000525564 ], [ 3334516.703869999852031, 2295809.256329998839647 ], [ 3332014.699329998809844, 2295809.256329998839647 ], [ 3332014.699329998809844, 2299349.767070000525564 ] ] ] } }
+]
+}

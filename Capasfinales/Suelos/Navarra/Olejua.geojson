@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Olejua",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3325292.488905000500381, 2251110.37459500040859 ], [ 3328476.320595000870526, 2251110.37459500040859 ], [ 3328476.320595000870526, 2246629.785105000250041 ], [ 3325292.488905000500381, 2246629.785105000250041 ], [ 3325292.488905000500381, 2251110.37459500040859 ] ] ] } }
+]
+}

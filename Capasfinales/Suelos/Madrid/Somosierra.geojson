@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Somosierra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3179310.089320000261068, 2110315.10257999971509 ], [ 3187867.912879999727011, 2110315.10257999971509 ], [ 3187867.912879999727011, 2102927.80451999977231 ], [ 3179310.089320000261068, 2102927.80451999977231 ], [ 3179310.089320000261068, 2110315.10257999971509 ] ] ] } }
+]
+}

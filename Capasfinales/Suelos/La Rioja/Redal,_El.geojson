@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Redal,_El",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3314962.618170000147074, 2223536.37733 ], [ 3319323.672030000481755, 2223536.37733 ], [ 3319323.672030000481755, 2216086.786870000418276 ], [ 3314962.618170000147074, 2216086.786870000418276 ], [ 3314962.618170000147074, 2223536.37733 ] ] ] } }
+]
+}

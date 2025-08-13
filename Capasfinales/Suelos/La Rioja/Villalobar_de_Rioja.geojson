@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Villalobar_de_Rioja",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3254156.66969499969855, 2248234.123304999899119 ], [ 3260089.530005, 2248234.123304999899119 ], [ 3260089.530005, 2242511.91719500022009 ], [ 3254156.66969499969855, 2242511.91719500022009 ], [ 3254156.66969499969855, 2248234.123304999899119 ] ] ] } }
+]
+}

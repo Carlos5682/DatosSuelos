@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ikaztegieta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3334909.171764999628067, 2300987.059435000643134 ], [ 3337698.988535, 2300987.059435000643134 ], [ 3337698.988535, 2299053.001065000891685 ], [ 3334909.171764999628067, 2299053.001065000891685 ], [ 3334909.171764999628067, 2300987.059435000643134 ] ] ] } }
+]
+}

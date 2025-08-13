@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Braojos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3170279.782379999756813, 2103641.33182 ], [ 3178836.305020000785589, 2103641.33182 ], [ 3178836.305020000785589, 2094686.902179999276996 ], [ 3170279.782379999756813, 2094686.902179999276996 ], [ 3170279.782379999756813, 2103641.33182 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Gaintza",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3332804.253634999040514, 2298061.397565001156181 ], [ 3336418.594965001102537, 2298061.397565001156181 ], [ 3336418.594965001102537, 2294065.749934999737889 ], [ 3332804.253634999040514, 2294065.749934999737889 ], [ 3332804.253634999040514, 2298061.397565001156181 ] ] ] } }
+]
+}

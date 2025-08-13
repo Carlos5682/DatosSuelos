@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Hornos_de_Moncalvillo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3285064.238474999554455, 2232830.386625000275671 ], [ 3289297.219025, 2232830.386625000275671 ], [ 3289297.219025, 2227771.536075000651181 ], [ 3285064.238474999554455, 2227771.536075000651181 ], [ 3285064.238474999554455, 2232830.386625000275671 ] ] ] } }
+]
+}

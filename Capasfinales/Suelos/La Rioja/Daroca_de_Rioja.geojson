@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Daroca_de_Rioja",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3282444.110024999827147, 2229239.773174999281764 ], [ 3288540.774475000798702, 2229239.773174999281764 ], [ 3288540.774475000798702, 2222248.806725000962615 ], [ 3282444.110024999827147, 2222248.806725000962615 ], [ 3282444.110024999827147, 2229239.773174999281764 ] ] ] } }
+]
+}

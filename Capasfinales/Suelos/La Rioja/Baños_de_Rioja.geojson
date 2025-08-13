@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Baños_de_Rioja",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3256134.235424999147654, 2250530.189375 ], [ 3261130.34447499923408, 2250530.189375 ], [ 3261130.34447499923408, 2244596.052725000306964 ], [ 3256134.235424999147654, 2244596.052725000306964 ], [ 3256134.235424999147654, 2250530.189375 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bezares",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3277968.384330000728369, 2230415.356869999319315 ], [ 3280740.31147, 2230415.356869999319315 ], [ 3280740.31147, 2225166.05333000048995 ], [ 3277968.384330000728369, 2225166.05333000048995 ], [ 3277968.384330000728369, 2230415.356869999319315 ] ] ] } }
+]
+}
