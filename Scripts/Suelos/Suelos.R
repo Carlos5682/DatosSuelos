@@ -6,39 +6,36 @@ library(sf)
 library(dplyr)
 library(ggplot2)
 library(future.apply)
-setwd("C://Users//samue//Desktop//ProyectoTFG/")
+setwd("C://Users//samue//Desktop//ProyectoTFG/DatosSuelos/")
 
 
 #---------------------------------------------1 Recortar Comunidades autonomas--------------------------------------------
 
 ##---------------------------------------1.1 Procesar capas-----------------------------------
 
-#El zip descargado de: https://datos.gob.es/es/catalogo/ea0010987-mapa-de-litologias-de-espana-1-1-000-0002 contiene varios shape file, 
-#Canarias y Peninsula tienen diferentes capas, hay que hacer todo el proceso 2 veces 
-#Comenzamos con la primera capa para Peninsula y Baleares
+#El zip descargado de: https://centrodedescargas.cnig.es/CentroDescargas/detalleArchivo?sec=11262857
+#Contiene tanto peninsula, baleares y canarias en una sola capa.
 
-###----------------------------1.1.1 Peninsula y Baleares------------------------------------------
 
-####---------------------1.1.1.1 Leer capa--------------------------
+####---------------------1.1.1 Leer capa--------------------------
 
-litpenybal <- st_read("Datos/Datosdescargados/geologico_1000_shapes/geopb_1000.shp") 
+suelos <- st_read("Datos/Datosdescargados/mesuelos1M.shp_v3/suelos_1m_v3.shp") 
 
-####--------------------1.1.1.2 Corregir geometrias----------------
-litpenybal <- st_cast(litpenybal, "MULTIPOLYGON")
-litpenybal <- st_make_valid(litpenybal)
+####--------------------1.1.2 Corregir geometrias----------------
+suelos <- st_cast(suelos, "MULTIPOLYGON")
+suelos <- st_make_valid(suelos)
 
-litpenybal$LITOLOGIA[is.na(litpenybal$LITOLOGIA)] <- "Sin datos"
-####----------------1.1.1.3 Disolver geometrias----------------
+####----------------1.1.3 Disolver geometrias----------------
 
-litpybdisueltos <- litpenybal %>%
-  group_by(LITOLOGIA) %>%
+suelosdisueltos <- suelos %>%
+  group_by(orden) %>%
   summarise(geom = st_union(geometry), .groups = "drop") 
 
-####---------------1.1.1.4 Reproyectar geometrías--------------
+####---------------1.1.4 Reproyectar geometrías--------------
 
-litpenreproy <-  st_transform(litpybdisueltos, 3035)
+suelosreproy <-  st_transform(suelosdisueltos, 3035)
 
-####------------------1.1.1.5 Personalizar leyenda------------------
+####------------------1.1.5 Personalizar leyenda------------------
 #Colores de leyenda extraidos de: https://mapas.igme.es/gis/rest/services/Cartografia_Geologica/IGME_Litologias_1M/MapServer
 leyenda_litologia <- data.frame(
   litologia = c(
@@ -91,72 +88,19 @@ leyenda_litologia <- data.frame(
 
 litologiafinal <- left_join(litpenreproy, leyenda_litologia, by = c("LITOLOGIA" = "litologia"))
 
-####------------------1.1.1.6 Guardar capa final-------------------
+####------------------1.1.6 Guardar capa final-------------------
 
 st_write(litologiafinal, 
          dsn = "Datos/Datoscorregidos/Litologiacorregido/litologiacorregido.gpkg", 
          driver = "GPKG", 
          delete_layer = TRUE)
-###----------------------------1.1.2 Canarias------------------------------------------
-
-####---------------------1.1.2.1 Leer capa--------------------------
-
-litcan <- st_read("Datos/Datosdescargados/geologico_1000_shapes/geocan_1000.shp") 
-
-####--------------------1.1.2.2 Corregir geometrias----------------
-
-litcan <- st_cast(litcan, "MULTIPOLYGON")
-litcan <- st_make_valid(litcan)
-litcan$LITOLOGIA[is.na(litcan$LITOLOGIA)] <- "Sin datos"
-
-####----------------1.1.2.3 Disolver geometrias----------------
-
-litcandisuelto <- litcan %>%
-  group_by(LITOLOGIA) %>%
-  summarise(geom = st_union(geometry), .groups = "drop") 
-
-####---------------1.1.2.4 Reproyectar geometrías--------------
-
-litcanreproy <-  st_transform(litcandisuelto, 3035)
-
-####------------------1.1.2.5 Personalizar leyenda------------------
-#Colores de leyenda extraidos de: https://mapas.igme.es/gis/rest/services/Cartografia_Geologica/IGME_Litologias_1M/MapServer
-leyenda_litologia_can <- data.frame(
-  litologia = c(
-    "Rocas volcánicas máficas",
-    "Rocas volcánicas félsicas",
-    "Rocas volcánicas máficas y félsicas",
-    "Rocas plutónicas máficas y félsicas",
-    "Rocas plutónicas félsicas",
-    "Gravas, conglomerados, arenas y limos",
-    "Sin datos"
-  ),
-  color = c(
-    "#a8a800", 
-    "#ff5400", 
-    "#a3ff9b", 
-    "#c400ff", 
-    "#ff5400", 
-    "#ffe6bf", 
-    "grey80"  
-  ),
-  stringsAsFactors = FALSE
-)
-litcanfinal <- left_join(litcanreproy, leyenda_litologia_can, by = c("LITOLOGIA" = "litologia"))
-
-####------------------1.1.2.6 Guardar capa final-------------------
-
-st_write(litcanfinal, 
-         dsn = "Datos/Datoscorregidos/Litologiacorregido/litologiacancorregido.gpkg", 
-         driver = "GPKG", 
-         delete_layer = TRUE)
 
 
 ##---------------------------------------1.2 Bucle para las comunidades autonomas------------------------------------
-###-------------------------1.2.1 Peninsula y Baleares---------------------------------
+
 litologiafinal <- st_read("Datos/Datoscorregidos/Litologiacorregido/litologiacorregido.gpkg")
 
-####-------------1.2.1.1 Obtener comunidades autónomas---------
+####-------------1.2.1 Obtener comunidades autónomas---------
 ccaa_sf <- esp_get_ccaa(moveCAN = FALSE, epsg = 3035)
 ccaa_sf <- st_make_valid(ccaa_sf)
 
@@ -168,7 +112,7 @@ for (i in 1:nrow(ccaa_sf)) {
   
   ccaa_geom <- ccaa_sf[i, ]
   
-  ####----------1.2.1.2 Calcular y expandir bbox---------------
+  ####----------1.2.2 Calcular y expandir bbox---------------
   bbox <- st_bbox(ccaa_geom)
   
   x_diff <- bbox$xmax - bbox$xmin
@@ -189,59 +133,15 @@ for (i in 1:nrow(ccaa_sf)) {
     crs = st_crs(ccaa_geom)
   )
   
-  ####----------1.2.1.3 Convertir bbox a polígono-------------
+  ####----------1.2.3 Convertir bbox a polígono-------------
   bbox_poly <- st_as_sfc(st_bbox(bbox_expandida, crs = st_crs(ccaa_geom)))
   
-  ####----------1.2.1.4 Intersección con polígono--------------
+  ####----------1.2.4 Intersección con polígono--------------
   lit_crop <- st_intersection(litologiafinal, bbox_poly)
   
-  ####------------1.2.1.5 Guardar como GeoPackage---------------
+  ####------------1.2.5 Guardar como GeoPackage---------------
   st_write(lit_crop, paste0("Datos/DatosporComunidad/Litologia/", nombre_ccaa, ".gpkg"), delete_dsn = TRUE)
 }
-
-###-----------------------------1.2.2 Canarias---------------------------------
-
-litcanfinal <- st_read("Datos/Datoscorregidos/Litologiacorregido/litologiacancorregido.gpkg")
-
-####-------------1.2.2.1 Obtener comunidades autónomas---------
-
-ccaa_sf <- esp_get_ccaa(moveCAN = FALSE, epsg = 3035)
-ccaa_sf <- st_make_valid(ccaa_sf)
-
-####---------------1.2.2.2 Filtrar Canarias------------------------
-
-canarias_geom <- ccaa_sf[ccaa_sf$ccaa.shortname.es == "Canarias", ]
-
-####----------1.2.2.3 Calcular y expandir bbox---------------
-
-bbox <- st_bbox(canarias_geom)
-
-x_diff <- bbox$xmax - bbox$xmin
-y_diff <- bbox$ymax - bbox$ymin
-max_diff <- max(x_diff, y_diff)
-
-x_buffer <- max_diff * 0.15
-y_buffer <- max_diff * 0.15
-
-bbox_expandida <- structure(
-  c(
-    xmin = bbox$xmin - x_buffer,
-    ymin = bbox$ymin - y_buffer,
-    xmax = bbox$xmax + x_buffer,
-    ymax = bbox$ymax + y_buffer
-  ),
-  class = "bbox",
-  crs = st_crs(canarias_geom)
-)
-
-####----------1.2.2.4 Convertir bbox a polígono-------------
-bbox_poly <- st_as_sfc(st_bbox(bbox_expandida, crs = st_crs(canarias_geom)))
-
-####----------1.2.2.5 Intersección con polígono--------------
-litcan_crop <- st_intersection(litcanfinal, bbox_poly)
-
-####------------1.2.2.6 Guardar como GeoPackage---------------
-st_write(litcan_crop, "Datos/DatosporComunidad/Litologia/Canarias.gpkg", delete_dsn = TRUE)
 
 
 
