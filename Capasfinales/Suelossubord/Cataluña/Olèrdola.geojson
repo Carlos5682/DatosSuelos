@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Olèrdola",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3621787.307490000966936, 2068239.313109999289736 ], [ 3631800.118009998928756, 2068239.313109999289736 ], [ 3631800.118009998928756, 2057018.65769 ], [ 3621787.307490000966936, 2057018.65769 ], [ 3621787.307490000966936, 2068239.313109999289736 ] ] ] } }
+]
+}

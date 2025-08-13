@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Tendilla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3220036.868260000832379, 2036790.735040000639856 ], [ 3228667.507939998991787, 2036790.735040000639856 ], [ 3228667.507939998991787, 2029194.32156 ], [ 3220036.868260000832379, 2029194.32156 ], [ 3220036.868260000832379, 2036790.735040000639856 ] ] ] } }
+]
+}

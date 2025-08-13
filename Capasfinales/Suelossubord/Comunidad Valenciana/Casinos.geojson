@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Casinos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3392685.357185, 1915756.304615000728518 ], [ 3403846.286315000150353, 1915756.304615000728518 ], [ 3403846.286315000150353, 1905875.550085000228137 ], [ 3392685.357185, 1905875.550085000228137 ], [ 3392685.357185, 1915756.304615000728518 ] ] ] } }
+]
+}

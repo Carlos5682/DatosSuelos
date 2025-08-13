@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Emperador",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Fluvent", "color": "#86BCAE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3430147.761950000654906, 1890181.825749999377877 ], [ 3430751.120849999133497, 1890181.825749999377877 ], [ 3430751.120849999133497, 1889468.043850000482053 ], [ 3430147.761950000654906, 1889468.043850000482053 ], [ 3430147.761950000654906, 1890181.825749999377877 ] ] ] } }
+]
+}

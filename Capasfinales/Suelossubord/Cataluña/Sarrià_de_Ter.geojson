@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sarrià_de_Ter",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3723007.772239999379963, 2131329.595960000995547 ], [ 3726278.162260000128299, 2131329.595960000995547 ], [ 3726278.162260000128299, 2127629.78504 ], [ 3723007.772239999379963, 2127629.78504 ], [ 3723007.772239999379963, 2131329.595960000995547 ] ] ] } }
+]
+}

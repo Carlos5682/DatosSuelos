@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vilallonga_del_Camp",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3579008.390744999516755, 2058352.717755000339821 ], [ 3584064.543854999821633, 2058352.717755000339821 ], [ 3584064.543854999821633, 2052859.744944999692962 ], [ 3579008.390744999516755, 2052859.744944999692962 ], [ 3579008.390744999516755, 2058352.717755000339821 ] ] ] } }
+]
+}

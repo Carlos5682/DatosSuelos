@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Rourell,_El",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3581938.98261999944225, 2057565.510580000700429 ], [ 3584895.779580000322312, 2057565.510580000700429 ], [ 3584895.779580000322312, 2055318.08882 ], [ 3581938.98261999944225, 2055318.08882 ], [ 3581938.98261999944225, 2057565.510580000700429 ] ] ] } }
+]
+}

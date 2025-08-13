@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pardines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3675374.576235, 2171478.662264999002218 ], [ 3684340.542464999482036, 2171478.662264999002218 ], [ 3684340.542464999482036, 2162606.051434999331832 ], [ 3675374.576235, 2162606.051434999331832 ], [ 3675374.576235, 2171478.662264999002218 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Figueroles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3444403.301790000870824, 1954054.74161 ], [ 3452388.431409999728203, 1954054.74161 ], [ 3452388.431409999728203, 1948221.342290000990033 ], [ 3444403.301790000870824, 1948221.342290000990033 ], [ 3444403.301790000870824, 1954054.74161 ] ] ] } }
+]
+}

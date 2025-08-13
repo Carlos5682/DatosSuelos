@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Higueruelas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3385285.386494999751449, 1924987.690804999321699 ], [ 3392455.555505, 1924987.690804999321699 ], [ 3392455.555505, 1914908.815895000472665 ], [ 3385285.386494999751449, 1914908.815895000472665 ], [ 3385285.386494999751449, 1924987.690804999321699 ] ] ] } }
+]
+}

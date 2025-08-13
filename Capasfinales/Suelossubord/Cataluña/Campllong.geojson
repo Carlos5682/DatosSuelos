@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Campllong",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3722972.346210000570863, 2119294.85668999934569 ], [ 3727230.560389999765903, 2119294.85668999934569 ], [ 3727230.560389999765903, 2113718.0743100005202 ], [ 3722972.346210000570863, 2113718.0743100005202 ], [ 3722972.346210000570863, 2119294.85668999934569 ] ] ] } }
+]
+}

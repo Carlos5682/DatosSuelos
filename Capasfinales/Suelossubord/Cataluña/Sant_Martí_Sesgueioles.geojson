@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Martí_Sesgueioles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3610980.148925000801682, 2108021.921974999830127 ], [ 3614354.463375000283122, 2108021.921974999830127 ], [ 3614354.463375000283122, 2105350.256124999374151 ], [ 3610980.148925000801682, 2105350.256124999374151 ], [ 3610980.148925000801682, 2108021.921974999830127 ] ] ] } }
+]
+}

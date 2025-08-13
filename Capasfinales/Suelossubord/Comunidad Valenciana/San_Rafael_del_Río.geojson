@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "San_Rafael_del_Río",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3497348.828255000989884, 2000382.360745000420138 ], [ 3507644.469844999257475, 2000382.360745000420138 ], [ 3507644.469844999257475, 1992191.936554999323562 ], [ 3497348.828255000989884, 1992191.936554999323562 ], [ 3497348.828255000989884, 2000382.360745000420138 ] ] ] } }
+]
+}

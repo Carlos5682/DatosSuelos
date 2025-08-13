@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vallcebre",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3639351.506480000447482, 2164089.419520000461489 ], [ 3648315.613319999072701, 2164089.419520000461489 ], [ 3648315.613319999072701, 2155403.73038 ], [ 3639351.506480000447482, 2155403.73038 ], [ 3639351.506480000447482, 2164089.419520000461489 ] ] ] } }
+]
+}

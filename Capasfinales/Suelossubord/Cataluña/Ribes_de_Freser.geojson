@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ribes_de_Freser",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3668894.064230000134557, 2172402.477869999129325 ], [ 3679930.807170000392944, 2172402.477869999129325 ], [ 3679930.807170000392944, 2159294.549530000891536 ], [ 3668894.064230000134557, 2159294.549530000891536 ], [ 3668894.064230000134557, 2172402.477869999129325 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Senan",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3570550.669444999657571, 2089543.655055000679567 ], [ 3577987.103255000896752, 2089543.655055000679567 ], [ 3577987.103255000896752, 2083128.516645 ], [ 3570550.669444999657571, 2083128.516645 ], [ 3570550.669444999657571, 2089543.655055000679567 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castellnou_de_Seana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Calcid", "color": "#F39F86" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3564758.569044999778271, 2109646.053855 ], [ 3571898.628855001181364, 2109646.053855 ], [ 3571898.628855001181364, 2102879.188544999808073 ], [ 3564758.569044999778271, 2102879.188544999808073 ], [ 3564758.569044999778271, 2109646.053855 ] ] ] } }
+]
+}

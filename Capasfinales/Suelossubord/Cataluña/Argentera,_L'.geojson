@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Argentera,_L'",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3553476.24224, 2052822.94355999911204 ], [ 3558663.613860000390559, 2052822.94355999911204 ], [ 3558663.613860000390559, 2046330.40243999985978 ], [ 3553476.24224, 2046330.40243999985978 ], [ 3553476.24224, 2052822.94355999911204 ] ] ] } }
+]
+}

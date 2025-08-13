@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Duesaigües",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3555101.878764999099076, 2056020.910035 ], [ 3561304.61113499943167, 2056020.910035 ], [ 3561304.61113499943167, 2048966.908665000693873 ], [ 3555101.878764999099076, 2048966.908665000693873 ], [ 3555101.878764999099076, 2056020.910035 ] ] ] } }
+]
+}

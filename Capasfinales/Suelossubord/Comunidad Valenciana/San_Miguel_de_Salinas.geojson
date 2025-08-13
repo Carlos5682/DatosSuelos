@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "San_Miguel_de_Salinas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Calcid", "color": "#F39F86" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3363017.281065000686795, 1729242.849634998943657 ], [ 3374018.729535, 1729242.849634998943657 ], [ 3374018.729535, 1716285.199865000788122 ], [ 3363017.281065000686795, 1716285.199865000788122 ], [ 3363017.281065000686795, 1729242.849634998943657 ] ] ] } }
+]
+}

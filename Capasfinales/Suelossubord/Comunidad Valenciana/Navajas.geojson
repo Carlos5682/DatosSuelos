@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Navajas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3418956.176740000490099, 1929929.344460000516847 ], [ 3423658.760859999340028, 1929929.344460000516847 ], [ 3423658.760859999340028, 1925272.43374 ], [ 3418956.176740000490099, 1925272.43374 ], [ 3418956.176740000490099, 1929929.344460000516847 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Milà,_El",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3581101.477905000559986, 2061145.246595 ], [ 3584427.110994999296963, 2061145.246595 ], [ 3584427.110994999296963, 2057651.032104999758303 ], [ 3581101.477905000559986, 2057651.032104999758303 ], [ 3581101.477905000559986, 2061145.246595 ] ] ] } }
+]
+}

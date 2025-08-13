@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cabanyes,_Les",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3623358.92767000105232, 2069353.160330000333488 ], [ 3625478.69233, 2069353.160330000333488 ], [ 3625478.69233, 2067360.161770000122488 ], [ 3623358.92767000105232, 2067360.161770000122488 ], [ 3623358.92767000105232, 2069353.160330000333488 ] ] ] } }
+]
+}

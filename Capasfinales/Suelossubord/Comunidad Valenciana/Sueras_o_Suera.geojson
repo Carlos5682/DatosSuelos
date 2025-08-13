@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sueras_o_Suera",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3429818.148539999499917, 1937855.762059999629855 ], [ 3438810.867860000580549, 1937855.762059999629855 ], [ 3438810.867860000580549, 1930322.075740000233054 ], [ 3429818.148539999499917, 1930322.075740000233054 ], [ 3429818.148539999499917, 1937855.762059999629855 ] ] ] } }
+]
+}

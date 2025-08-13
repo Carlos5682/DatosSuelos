@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Arenales_de_San_Gregorio",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3191734.208695000503212, 1902505.852905000792816 ], [ 3201286.443405, 1902505.852905000792816 ], [ 3201286.443405, 1891701.510395000455901 ], [ 3191734.208695000503212, 1891701.510395000455901 ], [ 3191734.208695000503212, 1902505.852905000792816 ] ] ] } }
+]
+}

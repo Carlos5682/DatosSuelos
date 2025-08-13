@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Banyeres_del_Penedès",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3608885.814399999566376, 2061262.864000000990927 ], [ 3615906.60740000102669, 2061262.864000000990927 ], [ 3615906.60740000102669, 2056101.5477 ], [ 3608885.814399999566376, 2056101.5477 ], [ 3608885.814399999566376, 2061262.864000000990927 ] ] ] } }
+]
+}

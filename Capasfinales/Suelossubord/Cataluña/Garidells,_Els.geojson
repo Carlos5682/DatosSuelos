@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Garidells,_Els",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3584140.758929999545217, 2056478.11087 ], [ 3587045.81857000105083, 2056478.11087 ], [ 3587045.81857000105083, 2053177.099129999056458 ], [ 3584140.758929999545217, 2053177.099129999056458 ], [ 3584140.758929999545217, 2056478.11087 ] ] ] } }
+]
+}

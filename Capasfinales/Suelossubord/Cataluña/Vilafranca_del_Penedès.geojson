@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vilafranca_del_Penedès",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3621081.216835001017898, 2069128.136864999774843 ], [ 3629111.575664999429137, 2069128.136864999774843 ], [ 3629111.575664999429137, 2062171.749334999825805 ], [ 3621081.216835001017898, 2062171.749334999825805 ], [ 3621081.216835001017898, 2069128.136864999774843 ] ] ] } }
+]
+}

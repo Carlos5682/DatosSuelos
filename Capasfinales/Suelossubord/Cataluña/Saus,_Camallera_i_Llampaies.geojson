@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Saus,_Camallera_i_Llampaies",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3733953.060209999326617, 2143723.380490000825375 ], [ 3741757.530389999505132, 2143723.380490000825375 ], [ 3741757.530389999505132, 2138459.962809999007732 ], [ 3733953.060209999326617, 2138459.962809999007732 ], [ 3733953.060209999326617, 2143723.380490000825375 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Benicull_de_Xúquer",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Fluvent", "color": "#86BCAE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3419330.74256999976933, 1851332.3903299998492 ], [ 3422877.374230001121759, 1851332.3903299998492 ], [ 3422877.374230001121759, 1848618.058769999071956 ], [ 3419330.74256999976933, 1848618.058769999071956 ], [ 3419330.74256999976933, 1851332.3903299998492 ] ] ] } }
+]
+}

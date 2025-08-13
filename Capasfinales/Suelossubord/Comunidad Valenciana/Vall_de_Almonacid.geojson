@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vall_de_Almonacid",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3420044.912605000194162, 1933113.698895000386983 ], [ 3430341.384894999209791, 1933113.698895000386983 ], [ 3430341.384894999209791, 1925725.620204999577254 ], [ 3420044.912605000194162, 1925725.620204999577254 ], [ 3420044.912605000194162, 1933113.698895000386983 ] ] ] } }
+]
+}

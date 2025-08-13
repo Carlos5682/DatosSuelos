@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Eslida",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3434254.692815000656992, 1929134.124385000439361 ], [ 3441473.709685001056641, 1929134.124385000439361 ], [ 3441473.709685001056641, 1922450.001415 ], [ 3434254.692815000656992, 1922450.001415 ], [ 3434254.692815000656992, 1929134.124385000439361 ] ] ] } }
+]
+}

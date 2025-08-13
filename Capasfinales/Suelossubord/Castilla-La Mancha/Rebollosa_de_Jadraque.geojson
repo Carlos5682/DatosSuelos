@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Rebollosa_de_Jadraque",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3240364.773985000327229, 2092994.14231500052847 ], [ 3245202.893115000799298, 2092994.14231500052847 ], [ 3245202.893115000799298, 2088268.573385 ], [ 3240364.773985000327229, 2088268.573385 ], [ 3240364.773985000327229, 2092994.14231500052847 ] ] ] } }
+]
+}

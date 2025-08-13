@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Burjassot",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3422014.555060001090169, 1887247.416940000141039 ], [ 3425194.22714, 1887247.416940000141039 ], [ 3425194.22714, 1884136.87686 ], [ 3422014.555060001090169, 1884136.87686 ], [ 3422014.555060001090169, 1887247.416940000141039 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Quirze_del_Vallès",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3653956.251249999273568, 2084665.822849999647588 ], [ 3661215.05214999942109, 2084665.822849999647588 ], [ 3661215.05214999942109, 2078977.241449999157339 ], [ 3653956.251249999273568, 2078977.241449999157339 ], [ 3653956.251249999273568, 2084665.822849999647588 ] ] ] } }
+]
+}

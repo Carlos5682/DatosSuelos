@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Hipòlit_de_Voltregà",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3676116.981190000195056, 2135198.29901000065729 ], [ 3677808.017809999641031, 2135198.29901000065729 ], [ 3677808.017809999641031, 2133764.771790000144392 ], [ 3676116.981190000195056, 2133764.771790000144392 ], [ 3676116.981190000195056, 2135198.29901000065729 ] ] ] } }
+]
+}

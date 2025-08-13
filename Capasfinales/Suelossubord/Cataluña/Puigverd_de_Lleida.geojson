@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Puigverd_de_Lleida",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Calcid", "color": "#F39F86" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3543974.27669999981299, 2099973.966899999883026 ], [ 3550470.534600000362843, 2099973.966899999883026 ], [ 3550470.534600000362843, 2093222.331100000534207 ], [ 3543974.27669999981299, 2093222.331100000534207 ], [ 3543974.27669999981299, 2099973.966899999883026 ] ] ] } }
+]
+}

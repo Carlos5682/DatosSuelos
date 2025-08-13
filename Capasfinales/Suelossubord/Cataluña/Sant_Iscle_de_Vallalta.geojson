@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Iscle_de_Vallalta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3697081.316630000714213, 2093447.927170000504702 ], [ 3703696.912870000582188, 2093447.927170000504702 ], [ 3703696.912870000582188, 2086100.818830000702292 ], [ 3697081.316630000714213, 2086100.818830000702292 ], [ 3697081.316630000714213, 2093447.927170000504702 ] ] ] } }
+]
+}

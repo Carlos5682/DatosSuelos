@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vallmoll",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3583333.238035, 2062916.701864999718964 ], [ 3589752.129365, 2062916.701864999718964 ], [ 3589752.129365, 2054624.611435000784695 ], [ 3583333.238035, 2054624.611435000784695 ], [ 3583333.238035, 2062916.701864999718964 ] ] ] } }
+]
+}

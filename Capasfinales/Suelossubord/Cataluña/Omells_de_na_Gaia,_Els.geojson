@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Omells_de_na_Gaia,_Els",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3570777.034245000686496, 2090850.909355000359938 ], [ 3578196.656454999465495, 2090850.909355000359938 ], [ 3578196.656454999465495, 2084691.25014500063844 ], [ 3570777.034245000686496, 2084691.25014500063844 ], [ 3570777.034245000686496, 2090850.909355000359938 ] ] ] } }
+]
+}

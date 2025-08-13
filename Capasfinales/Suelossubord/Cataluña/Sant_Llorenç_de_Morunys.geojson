@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Llorenç_de_Morunys",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3622747.747564999386668, 2155346.335434999316931 ], [ 3626494.937534999102354, 2155346.335434999316931 ], [ 3626494.937534999102354, 2150423.255064999684691 ], [ 3622747.747564999386668, 2150423.255064999684691 ], [ 3622747.747564999386668, 2155346.335434999316931 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vilar_de_Canes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3461285.310464999172837, 1978231.013935000868514 ], [ 3468606.459235000889748, 1978231.013935000868514 ], [ 3468606.459235000889748, 1971570.374164999229833 ], [ 3461285.310464999172837, 1971570.374164999229833 ], [ 3461285.310464999172837, 1978231.013935000868514 ] ] ] } }
+]
+}

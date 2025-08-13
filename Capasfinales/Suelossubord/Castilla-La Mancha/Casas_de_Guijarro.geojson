@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Casas_de_Guijarro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3269611.413000000175089, 1892194.868100001011044 ], [ 3273678.27750000031665, 1892194.868100001011044 ], [ 3273678.27750000031665, 1887912.925499999430031 ], [ 3269611.413000000175089, 1887912.925499999430031 ], [ 3269611.413000000175089, 1892194.868100001011044 ] ] ] } }
+]
+}

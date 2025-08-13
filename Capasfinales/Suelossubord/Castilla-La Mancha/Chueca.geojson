@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Chueca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3124094.891144999302924, 1961243.898255001055077 ], [ 3130147.737555, 1961243.898255001055077 ], [ 3130147.737555, 1955854.108645000262186 ], [ 3124094.891144999302924, 1955854.108645000262186 ], [ 3124094.891144999302924, 1961243.898255001055077 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Solivella",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3580069.580999999772757, 2087018.849399999249727 ], [ 3586898.367400000337511, 2087018.849399999249727 ], [ 3586898.367400000337511, 2079482.039599999319762 ], [ 3580069.580999999772757, 2079482.039599999319762 ], [ 3580069.580999999772757, 2087018.849399999249727 ] ] ] } }
+]
+}

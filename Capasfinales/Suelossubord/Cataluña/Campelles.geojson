@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Campelles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3667359.038344999309629, 2169160.16685500042513 ], [ 3674537.974354999605566, 2169160.16685500042513 ], [ 3674537.974354999605566, 2160988.59864499932155 ], [ 3667359.038344999309629, 2160988.59864499932155 ], [ 3667359.038344999309629, 2169160.16685500042513 ] ] ] } }
+]
+}

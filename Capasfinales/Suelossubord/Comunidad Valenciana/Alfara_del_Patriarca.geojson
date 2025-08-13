@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Alfara_del_Patriarca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3425726.090055000502616, 1890483.849444999592379 ], [ 3427622.007145000156015, 1890483.849444999592379 ], [ 3427622.007145000156015, 1886991.339255000231788 ], [ 3425726.090055000502616, 1886991.339255000231788 ], [ 3425726.090055000502616, 1890483.849444999592379 ] ] ] } }
+]
+}
