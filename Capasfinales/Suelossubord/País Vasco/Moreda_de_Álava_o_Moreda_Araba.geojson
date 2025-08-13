@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Moreda_de_Álava_o_Moreda_Araba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3300717.516765000298619, 2244203.935334999114275 ], [ 3305001.753735000267625, 2244203.935334999114275 ], [ 3305001.753735000267625, 2240064.550765000283718 ], [ 3300717.516765000298619, 2240064.550765000283718 ], [ 3300717.516765000298619, 2244203.935334999114275 ] ] ] } }
+]
+}

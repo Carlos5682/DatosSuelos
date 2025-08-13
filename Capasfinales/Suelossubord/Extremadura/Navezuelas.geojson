@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Navezuelas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2990372.365725, 1966683.748474999796599 ], [ 3002206.557275000493973, 1966683.748474999796599 ], [ 3002206.557275000493973, 1950841.93222500057891 ], [ 2990372.365725, 1950841.93222500057891 ], [ 2990372.365725, 1966683.748474999796599 ] ] ] } }
+]
+}

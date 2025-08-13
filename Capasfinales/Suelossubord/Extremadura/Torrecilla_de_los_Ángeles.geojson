@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Torrecilla_de_los_Ángeles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2923520.387870000675321, 2062771.91763 ], [ 2937189.963530000299215, 2062771.91763 ], [ 2937189.963530000299215, 2052599.239870000630617 ], [ 2923520.387870000675321, 2052599.239870000630617 ], [ 2923520.387870000675321, 2062771.91763 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Coloma",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3278618.011019999161363, 2230943.408080000430346 ], [ 3285250.59368, 2230943.408080000430346 ], [ 3285250.59368, 2222010.238120000809431 ], [ 3278618.011019999161363, 2222010.238120000809431 ], [ 3278618.011019999161363, 2230943.408080000430346 ] ] ] } }
+]
+}

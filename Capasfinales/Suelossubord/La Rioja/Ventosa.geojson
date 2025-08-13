@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ventosa",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3280840.88330499920994, 2234179.654694999568164 ], [ 3285384.777195, 2234179.654694999568164 ], [ 3285384.777195, 2228464.530605000443757 ], [ 3280840.88330499920994, 2228464.530605000443757 ], [ 3280840.88330499920994, 2234179.654694999568164 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "San_Torcuato",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3261518.551120000891387, 2246946.82797999959439 ], [ 3270884.64187999907881, 2246946.82797999959439 ], [ 3270884.64187999907881, 2240180.002120000310242 ], [ 3261518.551120000891387, 2240180.002120000310242 ], [ 3261518.551120000891387, 2246946.82797999959439 ] ] ] } }
+]
+}

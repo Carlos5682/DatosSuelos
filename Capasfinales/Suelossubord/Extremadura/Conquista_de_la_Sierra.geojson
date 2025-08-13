@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Conquista_de_la_Sierra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2960441.01971000013873, 1951209.180889999726787 ], [ 2974627.325090000871569, 1951209.180889999726787 ], [ 2974627.325090000871569, 1939135.879809999605641 ], [ 2960441.01971000013873, 1939135.879809999605641 ], [ 2960441.01971000013873, 1951209.180889999726787 ] ] ] } }
+]
+}

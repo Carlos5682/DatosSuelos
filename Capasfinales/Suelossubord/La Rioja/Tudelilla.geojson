@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Tudelilla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3318655.460580001119524, 2216471.293319999706 ], [ 3328431.256219999399036, 2216471.293319999706 ], [ 3328431.256219999399036, 2209156.570380000863224 ], [ 3318655.460580001119524, 2209156.570380000863224 ], [ 3318655.460580001119524, 2216471.293319999706 ] ] ] } }
+]
+}

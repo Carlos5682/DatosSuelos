@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Hernán-Pérez",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2919257.595160000491887, 2059851.15234 ], [ 2928173.661239999812096, 2059851.15234 ], [ 2928173.661239999812096, 2050334.183060000184923 ], [ 2919257.595160000491887, 2050334.183060000184923 ], [ 2919257.595160000491887, 2059851.15234 ] ] ] } }
+]
+}

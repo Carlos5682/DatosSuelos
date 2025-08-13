@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castañares_de_Rioja",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3259159.604614999610931, 2250359.186584999319166 ], [ 3263980.389584999065846, 2250359.186584999319166 ], [ 3263980.389584999065846, 2244380.374915000516921 ], [ 3259159.604614999610931, 2244380.374915000516921 ], [ 3259159.604614999610931, 2250359.186584999319166 ] ] ] } }
+]
+}

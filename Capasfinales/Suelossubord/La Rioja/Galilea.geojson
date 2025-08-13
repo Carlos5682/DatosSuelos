@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Galilea",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3311433.786415, 2225507.729284999426454 ], [ 3318870.030385000165552, 2225507.729284999426454 ], [ 3318870.030385000165552, 2217732.229215000290424 ], [ 3311433.786415, 2217732.229215000290424 ], [ 3311433.786415, 2225507.729284999426454 ] ] ] } }
+]
+}
