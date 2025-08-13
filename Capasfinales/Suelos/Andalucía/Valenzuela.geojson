@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Valenzuela",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Vertisol", "color": "#DFCCE2" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3061164.257605000399053, 1754001.09559499938041 ], [ 3069234.826894999481738, 1754001.09559499938041 ], [ 3069234.826894999481738, 1745237.661305 ], [ 3061164.257605000399053, 1745237.661305 ], [ 3061164.257605000399053, 1754001.09559499938041 ] ] ] } }
+]
+}

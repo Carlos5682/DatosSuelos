@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cárcheles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3111094.778965, 1732508.260734999552369 ], [ 3119840.478435000404716, 1732508.260734999552369 ], [ 3119840.478435000404716, 1720059.766365000978112 ], [ 3111094.778965, 1720059.766365000978112 ], [ 3111094.778965, 1732508.260734999552369 ] ] ] } }
+]
+}

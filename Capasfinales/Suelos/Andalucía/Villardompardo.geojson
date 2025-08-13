@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Villardompardo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Vertisol", "color": "#DFCCE2" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3083627.367975000292063, 1757798.441624999279156 ], [ 3090456.846924999728799, 1757798.441624999279156 ], [ 3090456.846924999728799, 1749309.998674999689683 ], [ 3083627.367975000292063, 1749309.998674999689683 ], [ 3083627.367975000292063, 1757798.441624999279156 ] ] ] } }
+]
+}

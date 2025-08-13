@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Armilla",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3106764.405735, 1673913.652764999307692 ], [ 3109976.708165000192821, 1673913.652764999307692 ], [ 3109976.708165000192821, 1670069.995934999547899 ], [ 3106764.405735, 1670069.995934999547899 ], [ 3106764.405735, 1673913.652764999307692 ] ] ] } }
+]
+}
