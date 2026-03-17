@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Martí_d'Albars",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3660143.68635, 2141770.758550000376999 ], [ 3666339.658049999736249, 2141770.758550000376999 ], [ 3666339.658049999736249, 2134697.028250000439584 ], [ 3660143.68635, 2134697.028250000439584 ], [ 3660143.68635, 2141770.758550000376999 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pina_de_Montalgrao",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3403798.222024999093264, 1949444.693274999270216 ], [ 3414945.701874999795109, 1949444.693274999270216 ], [ 3414945.701874999795109, 1938920.431625000899658 ], [ 3403798.222024999093264, 1938920.431625000899658 ], [ 3403798.222024999093264, 1949444.693274999270216 ] ] ] } }
+]
+}

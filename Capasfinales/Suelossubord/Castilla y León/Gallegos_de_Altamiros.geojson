@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Gallegos_de_Altamiros",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3060386.842449999880046, 2083980.416150000412017 ], [ 3067765.290150000248104, 2083980.416150000412017 ], [ 3067765.290150000248104, 2076657.214449999388307 ], [ 3060386.842449999880046, 2076657.214449999388307 ], [ 3060386.842449999880046, 2083980.416150000412017 ] ] ] } }
+]
+}

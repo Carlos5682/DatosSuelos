@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vilaür",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3735752.977255000267178, 2144214.842244999017566 ], [ 3739389.414945000316948, 2144214.842244999017566 ], [ 3739389.414945000316948, 2140166.571655 ], [ 3735752.977255000267178, 2140166.571655 ], [ 3735752.977255000267178, 2144214.842244999017566 ] ] ] } }
+]
+}

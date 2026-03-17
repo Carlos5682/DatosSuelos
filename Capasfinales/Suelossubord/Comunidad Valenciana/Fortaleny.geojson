@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Fortaleny",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Fluvent", "color": "#86BCAE" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3425490.629559999797493, 1850953.839340000879019 ], [ 3429185.331840000580996, 1850953.839340000879019 ], [ 3429185.331840000580996, 1845020.062659999821335 ], [ 3425490.629559999797493, 1845020.062659999821335 ], [ 3425490.629559999797493, 1850953.839340000879019 ] ] ] } }
+]
+}

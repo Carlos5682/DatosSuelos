@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Arens_de_Lledó",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Calcid", "color": "#F39F86" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3494280.83604, 2047942.80885999975726 ], [ 3503866.004760000389069, 2047942.80885999975726 ], [ 3503866.004760000389069, 2035137.623739999253303 ], [ 3494280.83604, 2035137.623739999253303 ], [ 3494280.83604, 2047942.80885999975726 ] ] ] } }
+]
+}

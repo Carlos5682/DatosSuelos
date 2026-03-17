@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Torremocha_de_Jadraque",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3233882.94673, 2086631.034170000581071 ], [ 3239117.99737, 2086631.034170000581071 ], [ 3239117.99737, 2080120.158629999728873 ], [ 3233882.94673, 2080120.158629999728873 ], [ 3233882.94673, 2086631.034170000581071 ] ] ] } }
+]
+}

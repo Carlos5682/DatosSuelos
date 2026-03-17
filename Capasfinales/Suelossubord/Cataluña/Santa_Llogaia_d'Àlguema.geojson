@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Llogaia_d'Àlguema",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3736786.733340001199394, 2153506.899859999772161 ], [ 3739977.97385999886319, 2153506.899859999772161 ], [ 3739977.97385999886319, 2151429.336339999455959 ], [ 3736786.733340001199394, 2151429.336339999455959 ], [ 3736786.733340001199394, 2153506.899859999772161 ] ] ] } }
+]
+}

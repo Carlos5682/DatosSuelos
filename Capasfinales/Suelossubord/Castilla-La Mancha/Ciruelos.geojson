@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ciruelos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3152946.327475001104176, 1980759.451425 ], [ 3161481.976024999283254, 1980759.451425 ], [ 3161481.976024999283254, 1973589.343375000171363 ], [ 3152946.327475001104176, 1973589.343375000171363 ], [ 3152946.327475001104176, 1980759.451425 ] ] ] } }
+]
+}

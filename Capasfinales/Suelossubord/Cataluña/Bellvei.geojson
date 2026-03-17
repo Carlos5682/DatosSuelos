@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bellvei",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3609905.448975, 2058082.554724999237806 ], [ 3615695.31902499916032, 2058082.554724999237806 ], [ 3615695.31902499916032, 2051176.328774999361485 ], [ 3609905.448975, 2051176.328774999361485 ], [ 3609905.448975, 2058082.554724999237806 ] ] ] } }
+]
+}

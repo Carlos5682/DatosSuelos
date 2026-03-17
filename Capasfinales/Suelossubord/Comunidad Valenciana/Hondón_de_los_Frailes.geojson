@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Hondón_de_los_Frailes",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Calcid", "color": "#F39F86" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3357809.745945000555366, 1758970.136654999572784 ], [ 3365000.404354999307543, 1758970.136654999572784 ], [ 3365000.404354999307543, 1753691.283245000522584 ], [ 3357809.745945000555366, 1753691.283245000522584 ], [ 3357809.745945000555366, 1758970.136654999572784 ] ] ] } }
+]
+}

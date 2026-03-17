@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Laroya",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3219308.908665, 1673345.972935000201687 ], [ 3226807.247534999158233, 1673345.972935000201687 ], [ 3226807.247534999158233, 1663099.098765000933781 ], [ 3219308.908665, 1663099.098765000933781 ], [ 3219308.908665, 1673345.972935000201687 ] ] ] } }
+]
+}

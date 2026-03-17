@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pobla_de_Mafumet,_La",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3578929.08411500044167, 2054566.103785000741482 ], [ 3584925.21178499981761, 2054566.103785000741482 ], [ 3584925.21178499981761, 2049781.000615000724792 ], [ 3578929.08411500044167, 2049781.000615000724792 ], [ 3578929.08411500044167, 2054566.103785000741482 ] ] ] } }
+]
+}

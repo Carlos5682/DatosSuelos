@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Badia_del_Vallès",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3660507.183804999571294, 2081008.051095000235364 ], [ 3662588.268594999331981, 2081008.051095000235364 ], [ 3662588.268594999331981, 2078778.468804999487475 ], [ 3660507.183804999571294, 2078778.468804999487475 ], [ 3660507.183804999571294, 2081008.051095000235364 ] ] ] } }
+]
+}

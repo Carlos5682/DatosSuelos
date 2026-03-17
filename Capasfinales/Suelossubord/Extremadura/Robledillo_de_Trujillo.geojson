@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Robledillo_de_Trujillo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2940048.884405000135303, 1947615.952494999626651 ], [ 2951336.765295000746846, 1947615.952494999626651 ], [ 2951336.765295000746846, 1936489.604305000742897 ], [ 2940048.884405000135303, 1936489.604305000742897 ], [ 2940048.884405000135303, 1947615.952494999626651 ] ] ] } }
+]
+}

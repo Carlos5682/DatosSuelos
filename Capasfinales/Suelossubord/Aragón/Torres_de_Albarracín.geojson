@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Torres_de_Albarracín",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3337657.585685000289232, 2005731.976914999308065 ], [ 3345735.686214999761432, 2005731.976914999308065 ], [ 3345735.686214999761432, 1995443.098184999777004 ], [ 3337657.585685000289232, 1995443.098184999777004 ], [ 3337657.585685000289232, 2005731.976914999308065 ] ] ] } }
+]
+}

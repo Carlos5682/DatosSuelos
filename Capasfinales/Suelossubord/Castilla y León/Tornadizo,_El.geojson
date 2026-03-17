@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Tornadizo,_El",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2977608.863565000705421, 2082946.27473499905318 ], [ 2983478.035935000516474, 2082946.27473499905318 ], [ 2983478.035935000516474, 2076140.422564999200404 ], [ 2977608.863565000705421, 2076140.422564999200404 ], [ 2977608.863565000705421, 2082946.27473499905318 ] ] ] } }
+]
+}

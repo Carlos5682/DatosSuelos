@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Manzanares_de_Rioja",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3256557.482130000367761, 2237284.557570001110435 ], [ 3264132.656770000234246, 2237284.557570001110435 ], [ 3264132.656770000234246, 2227557.003629999235272 ], [ 3256557.482130000367761, 2227557.003629999235272 ], [ 3256557.482130000367761, 2237284.557570001110435 ] ] ] } }
+]
+}

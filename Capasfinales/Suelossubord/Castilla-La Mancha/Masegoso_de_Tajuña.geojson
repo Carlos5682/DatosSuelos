@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Masegoso_de_Tajuña",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3247295.074794998858124, 2063957.403405000688508 ], [ 3253615.197805, 2063957.403405000688508 ], [ 3253615.197805, 2054845.569895 ], [ 3247295.074794998858124, 2054845.569895 ], [ 3247295.074794998858124, 2063957.403405000688508 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Campdevànol",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3666182.758505000267178, 2165254.057695000898093 ], [ 3677016.567595000844449, 2165254.057695000898093 ], [ 3677016.567595000844449, 2155227.189605 ], [ 3666182.758505000267178, 2155227.189605 ], [ 3666182.758505000267178, 2165254.057695000898093 ] ] ] } }
+]
+}

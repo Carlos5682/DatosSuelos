@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santo_Domingo_de_la_Calzada",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3251716.828739999327809, 2246281.737959999125451 ], [ 3262902.546460000332445, 2246281.737959999125451 ], [ 3262902.546460000332445, 2232710.111840000841767 ], [ 3251716.828739999327809, 2232710.111840000841767 ], [ 3251716.828739999327809, 2246281.737959999125451 ] ] ] } }
+]
+}

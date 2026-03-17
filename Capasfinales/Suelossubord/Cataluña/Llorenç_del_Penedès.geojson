@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Llorenç_del_Penedès",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3608722.117389999795705, 2062181.362309999298304 ], [ 3613847.330209999810904, 2062181.362309999298304 ], [ 3613847.330209999810904, 2058518.535590000916272 ], [ 3608722.117389999795705, 2058518.535590000916272 ], [ 3608722.117389999795705, 2062181.362309999298304 ] ] ] } }
+]
+}

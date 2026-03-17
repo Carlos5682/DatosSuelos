@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Algímia_d'Alfara",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3423050.406299998983741, 1915206.53749999939464 ], [ 3433756.798100000247359, 1915206.53749999939464 ], [ 3433756.798100000247359, 1908497.937099999049678 ], [ 3423050.406299998983741, 1908497.937099999049678 ], [ 3423050.406299998983741, 1915206.53749999939464 ] ] ] } }
+]
+}

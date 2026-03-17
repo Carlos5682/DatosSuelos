@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Puigpelat",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3587453.501915, 2064070.931584999663755 ], [ 3593935.592984999064356, 2064070.931584999663755 ], [ 3593935.592984999064356, 2059839.216315000550821 ], [ 3587453.501915, 2059839.216315000550821 ], [ 3587453.501915, 2064070.931584999663755 ] ] ] } }
+]
+}

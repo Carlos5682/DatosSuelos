@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Gernika-Lumo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3291336.56849499931559, 2334492.58180500054732 ], [ 3296994.541205000597984, 2334492.58180500054732 ], [ 3296994.541205000597984, 2329418.390195000451058 ], [ 3291336.56849499931559, 2329418.390195000451058 ], [ 3291336.56849499931559, 2334492.58180500054732 ] ] ] } }
+]
+}

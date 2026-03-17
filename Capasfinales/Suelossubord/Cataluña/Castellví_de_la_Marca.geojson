@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castellví_de_la_Marca",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3612191.445940000470728, 2069307.569760000566021 ], [ 3621481.020259999204427, 2069307.569760000566021 ], [ 3621481.020259999204427, 2061271.318940000375733 ], [ 3612191.445940000470728, 2061271.318940000375733 ], [ 3612191.445940000470728, 2069307.569760000566021 ] ] ] } }
+]
+}

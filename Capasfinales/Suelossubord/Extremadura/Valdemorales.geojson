@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Valdemorales",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2933946.311529999133199, 1940217.674370000837371 ], [ 2939448.87847000034526, 1940217.674370000837371 ], [ 2939448.87847000034526, 1935071.271030000643805 ], [ 2933946.311529999133199, 1935071.271030000643805 ], [ 2933946.311529999133199, 1940217.674370000837371 ] ] ] } }
+]
+}

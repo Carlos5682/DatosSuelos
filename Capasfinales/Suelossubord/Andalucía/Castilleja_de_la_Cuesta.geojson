@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Castilleja_de_la_Cuesta",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerert", "color": "#DFCCE2" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2898539.992920000571758, 1740934.21358000067994 ], [ 2900833.563680000137538, 1740934.21358000067994 ], [ 2900833.563680000137538, 1738651.699220000300556 ], [ 2898539.992920000571758, 1738651.699220000300556 ], [ 2898539.992920000571758, 1740934.21358000067994 ] ] ] } }
+]
+}

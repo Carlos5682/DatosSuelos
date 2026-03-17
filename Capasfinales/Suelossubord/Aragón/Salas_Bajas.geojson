@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Salas_Bajas",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3497548.690294999163598, 2166845.961604999843985 ], [ 3503666.681004999671131, 2166845.961604999843985 ], [ 3503666.681004999671131, 2161575.915495000313967 ], [ 3497548.690294999163598, 2161575.915495000313967 ], [ 3497548.690294999163598, 2166845.961604999843985 ] ] ] } }
+]
+}

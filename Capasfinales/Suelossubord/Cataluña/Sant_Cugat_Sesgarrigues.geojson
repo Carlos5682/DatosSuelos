@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sant_Cugat_Sesgarrigues",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3627370.404209999367595, 2068409.242690000683069 ], [ 3631528.338190000504255, 2068409.242690000683069 ], [ 3631528.338190000504255, 2063609.480709999799728 ], [ 3627370.404209999367595, 2063609.480709999799728 ], [ 3627370.404209999367595, 2068409.242690000683069 ] ] ] } }
+]
+}

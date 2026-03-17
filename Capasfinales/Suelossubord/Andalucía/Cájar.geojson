@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Cájar",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3111274.076184999197721, 1670931.251915000379086 ], [ 3113679.583315, 1670931.251915000379086 ], [ 3113679.583315, 1667467.531785000115633 ], [ 3111274.076184999197721, 1667467.531785000115633 ], [ 3111274.076184999197721, 1670931.251915000379086 ] ] ] } }
+]
+}

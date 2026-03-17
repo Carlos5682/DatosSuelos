@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vistabella",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3380782.463509999215603, 2084776.356590001145378 ], [ 3389137.317290000617504, 2084776.356590001145378 ], [ 3389137.317290000617504, 2077945.03880999959074 ], [ 3380782.463509999215603, 2077945.03880999959074 ], [ 3380782.463509999215603, 2084776.356590001145378 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Colldejou",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3548391.651069999206811, 2050288.573730000993237 ], [ 3557205.087130000349134, 2050288.573730000993237 ], [ 3557205.087130000349134, 2043009.210370000684634 ], [ 3548391.651069999206811, 2043009.210370000684634 ], [ 3548391.651069999206811, 2050288.573730000993237 ] ] ] } }
+]
+}

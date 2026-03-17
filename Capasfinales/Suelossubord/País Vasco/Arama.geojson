@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Arama",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Udept", "color": "#F6E826" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3331339.629129999317229, 2297961.045169998891652 ], [ 3333014.50397, 2297961.045169998891652 ], [ 3333014.50397, 2296233.340230000205338 ], [ 3331339.629129999317229, 2296233.340230000205338 ], [ 3331339.629129999317229, 2297961.045169998891652 ] ] ] } }
+]
+}

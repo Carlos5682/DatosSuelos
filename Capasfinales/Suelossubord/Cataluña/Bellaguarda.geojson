@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bellaguarda",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3539887.461634999606758, 2079195.817164999898523 ], [ 3548197.476865000557154, 2079195.817164999898523 ], [ 3548197.476865000557154, 2070329.092935 ], [ 3539887.461634999606758, 2070329.092935 ], [ 3539887.461634999606758, 2079195.817164999898523 ] ] ] } }
+]
+}

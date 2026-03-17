@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Nolay",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3288309.010884999763221, 2134711.049315000418574 ], [ 3296116.842215000186116, 2134711.049315000418574 ], [ 3296116.842215000186116, 2127083.326585 ], [ 3288309.010884999763221, 2127083.326585 ], [ 3288309.010884999763221, 2134711.049315000418574 ] ] ] } }
+]
+}

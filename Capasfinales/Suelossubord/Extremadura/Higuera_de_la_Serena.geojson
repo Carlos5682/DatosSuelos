@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Higuera_de_la_Serena",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Orthent", "color": "#E5EFD4" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2940360.839569999836385, 1877681.395030000247061 ], [ 2956856.58923, 1877681.395030000247061 ], [ 2956856.58923, 1864696.741169999353588 ], [ 2940360.839569999836385, 1864696.741169999353588 ], [ 2940360.839569999836385, 1877681.395030000247061 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Artesa_de_Lleida",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Calcid", "color": "#F39F86" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3540469.198665000498295, 2101770.253334999084473 ], [ 3548427.86013500019908, 2101770.253334999084473 ], [ 3548427.86013500019908, 2090954.665565000846982 ], [ 3540469.198665000498295, 2090954.665565000846982 ], [ 3540469.198665000498295, 2101770.253334999084473 ] ] ] } }
+]
+}

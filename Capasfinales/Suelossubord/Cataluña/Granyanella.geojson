@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Granyanella",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3584444.114615000318736, 2108517.269385001156479 ], [ 3592032.409685001242906, 2108517.269385001156479 ], [ 3592032.409685001242906, 2099452.951914999168366 ], [ 3584444.114615000318736, 2099452.951914999168366 ], [ 3584444.114615000318736, 2108517.269385001156479 ] ] ] } }
+]
+}

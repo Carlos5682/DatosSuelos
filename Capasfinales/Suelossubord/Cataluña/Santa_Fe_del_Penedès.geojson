@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Fe_del_Penedès",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3625208.504880000371486, 2071278.588020000373945 ], [ 3629509.142520000692457, 2071278.588020000373945 ], [ 3629509.142520000692457, 2068534.195680000120774 ], [ 3625208.504880000371486, 2068534.195680000120774 ], [ 3625208.504880000371486, 2071278.588020000373945 ] ] ] } }
+]
+}

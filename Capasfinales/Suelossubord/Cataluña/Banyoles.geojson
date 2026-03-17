@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Banyoles",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "suborden": "Xerept", "color": "#FFE393" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3719451.171335, 2144893.836564999539405 ], [ 3725572.352765, 2144893.836564999539405 ], [ 3725572.352765, 2139308.569135000463575 ], [ 3719451.171335, 2139308.569135000463575 ], [ 3719451.171335, 2144893.836564999539405 ] ] ] } }
+]
+}
