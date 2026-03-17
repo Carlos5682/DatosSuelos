@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Berrueces",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3071404.770879999734461, 2223319.17772 ], [ 3077350.135119999758899, 2223319.17772 ], [ 3077350.135119999758899, 2215758.166080000810325 ], [ 3071404.770879999734461, 2215758.166080000810325 ], [ 3071404.770879999734461, 2223319.17772 ] ] ] } }
+]
+}

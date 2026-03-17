@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Puebla_de_Obando",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2882600.722325, 1949104.183574999682605 ], [ 2894007.635374999605119, 1949104.183574999682605 ], [ 2894007.635374999605119, 1940537.722524999640882 ], [ 2882600.722325, 1940537.722524999640882 ], [ 2882600.722325, 1949104.183574999682605 ] ] ] } }
+]
+}

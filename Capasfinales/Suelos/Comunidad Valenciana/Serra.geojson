@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Serra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3414825.009254998993129, 1912021.415445000398904 ], [ 3429746.139245000202209, 1912021.415445000398904 ], [ 3429746.139245000202209, 1899358.416555 ], [ 3414825.009254998993129, 1899358.416555 ], [ 3414825.009254998993129, 1912021.415445000398904 ] ] ] } }
+]
+}

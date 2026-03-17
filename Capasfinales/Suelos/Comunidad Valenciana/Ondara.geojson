@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ondara",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3447644.640505000948906, 1808440.921395000303164 ], [ 3454051.192995000630617, 1808440.921395000303164 ], [ 3454051.192995000630617, 1803366.091605 ], [ 3447644.640505000948906, 1803366.091605 ], [ 3447644.640505000948906, 1808440.921395000303164 ] ] ] } }
+]
+}

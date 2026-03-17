@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Palmera",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3437368.654609999153763, 1821391.73519 ], [ 3439238.395990000572056, 1821391.73519 ], [ 3439238.395990000572056, 1819896.187109999824315 ], [ 3437368.654609999153763, 1819896.187109999824315 ], [ 3437368.654609999153763, 1821391.73519 ] ] ] } }
+]
+}

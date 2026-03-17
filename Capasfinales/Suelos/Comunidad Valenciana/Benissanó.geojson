@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Benissanó",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3410000.227679999079555, 1900538.525920000392944 ], [ 3412716.95052, 1900538.525920000392944 ], [ 3412716.95052, 1898161.08788 ], [ 3410000.227679999079555, 1898161.08788 ], [ 3410000.227679999079555, 1900538.525920000392944 ] ] ] } }
+]
+}

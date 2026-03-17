@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Font_d'En_Carròs,_la",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3434676.953295000363141, 1820028.562805000459775 ], [ 3439812.281804998870939, 1820028.562805000459775 ], [ 3439812.281804998870939, 1815127.617094999412075 ], [ 3434676.953295000363141, 1815127.617094999412075 ], [ 3434676.953295000363141, 1820028.562805000459775 ] ] ] } }
+]
+}

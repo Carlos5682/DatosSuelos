@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Gines",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Vertisol", "color": "#DFCCE2" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2896454.643389998935163, 1741542.682909999741241 ], [ 2899254.54361, 1741542.682909999741241 ], [ 2899254.54361, 1738924.907389999600127 ], [ 2896454.643389998935163, 1738924.907389999600127 ], [ 2896454.643389998935163, 1741542.682909999741241 ] ] ] } }
+]
+}

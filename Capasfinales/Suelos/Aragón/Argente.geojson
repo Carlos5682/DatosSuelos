@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Argente",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Aridisol", "color": "#F39F86" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3369977.153005000669509, 2031979.208894998999313 ], [ 3381495.934295, 2031979.208894998999313 ], [ 3381495.934295, 2018607.482604999793693 ], [ 3369977.153005000669509, 2018607.482604999793693 ], [ 3369977.153005000669509, 2031979.208894998999313 ] ] ] } }
+]
+}

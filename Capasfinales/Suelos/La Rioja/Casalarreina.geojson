@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Casalarreina",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3261066.573934999294579, 2253243.885565000586212 ], [ 3265715.583364999853075, 2253243.885565000586212 ], [ 3265715.583364999853075, 2248682.570734999142587 ], [ 3261066.573934999294579, 2248682.570734999142587 ], [ 3261066.573934999294579, 2253243.885565000586212 ] ] ] } }
+]
+}

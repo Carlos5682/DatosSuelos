@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Benissuera",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3408240.96766, 1821795.925640000263229 ], [ 3410707.958939999807626, 1821795.925640000263229 ], [ 3410707.958939999807626, 1819513.504860000452027 ], [ 3408240.96766, 1819513.504860000452027 ], [ 3408240.96766, 1821795.925640000263229 ] ] ] } }
+]
+}

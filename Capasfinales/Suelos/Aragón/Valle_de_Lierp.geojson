@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Valle_de_Lierp",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3533328.287294999696314, 2196354.133204999379814 ], [ 3541327.043905000202358, 2196354.133204999379814 ], [ 3541327.043905000202358, 2186201.909695000387728 ], [ 3533328.287294999696314, 2186201.909695000387728 ], [ 3533328.287294999696314, 2196354.133204999379814 ] ] ] } }
+]
+}

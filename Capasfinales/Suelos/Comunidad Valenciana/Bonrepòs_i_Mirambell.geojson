@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Bonrepòs_i_Mirambell",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3426846.421189999673516, 1887567.10851 ], [ 3428281.765609999652952, 1887567.10851 ], [ 3428281.765609999652952, 1885155.874490001006052 ], [ 3426846.421189999673516, 1885155.874490001006052 ], [ 3426846.421189999673516, 1887567.10851 ] ] ] } }
+]
+}

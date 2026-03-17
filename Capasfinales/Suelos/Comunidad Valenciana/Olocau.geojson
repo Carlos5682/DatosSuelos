@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Olocau",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3411552.524705000221729, 1911865.249594999477267 ], [ 3421074.601995000615716, 1911865.249594999477267 ], [ 3421074.601995000615716, 1899556.346105 ], [ 3411552.524705000221729, 1899556.346105 ], [ 3411552.524705000221729, 1911865.249594999477267 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Villarejo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3258278.676075000781566, 2234432.740125 ], [ 3264231.438225000631064, 2234432.740125 ], [ 3264231.438225000631064, 2227681.796574999112636 ], [ 3258278.676075000781566, 2227681.796574999112636 ], [ 3258278.676075000781566, 2234432.740125 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ansoáin_o_Antsoain",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3369561.839304999448359, 2267465.307595000602305 ], [ 3371612.583394999615848, 2267465.307595000602305 ], [ 3371612.583394999615848, 2265194.377504999749362 ], [ 3369561.839304999448359, 2265194.377504999749362 ], [ 3369561.839304999448359, 2267465.307595000602305 ] ] ] } }
+]
+}

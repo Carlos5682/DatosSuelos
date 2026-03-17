@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Riudellots_de_la_Selva",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3719133.305635000113398, 2119352.074665000196546 ], [ 3724585.651964999269694, 2119352.074665000196546 ], [ 3724585.651964999269694, 2112925.796234999317676 ], [ 3719133.305635000113398, 2112925.796234999317676 ], [ 3719133.305635000113398, 2119352.074665000196546 ] ] ] } }
+]
+}

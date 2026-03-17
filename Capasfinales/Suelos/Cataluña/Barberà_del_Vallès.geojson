@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Barberà_del_Vallès",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3660618.102000000886619, 2082838.483600000850856 ], [ 3666125.754800000227988, 2082838.483600000850856 ], [ 3666125.754800000227988, 2078513.855199999175966 ], [ 3660618.102000000886619, 2078513.855199999175966 ], [ 3660618.102000000886619, 2082838.483600000850856 ] ] ] } }
+]
+}

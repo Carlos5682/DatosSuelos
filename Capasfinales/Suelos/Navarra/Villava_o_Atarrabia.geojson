@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Villava_o_Atarrabia",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3372434.781774999573827, 2266129.924325000494719 ], [ 3373965.2825249992311, 2266129.924325000494719 ], [ 3373965.2825249992311, 2264190.488775 ], [ 3372434.781774999573827, 2264190.488775 ], [ 3372434.781774999573827, 2266129.924325000494719 ] ] ] } }
+]
+}

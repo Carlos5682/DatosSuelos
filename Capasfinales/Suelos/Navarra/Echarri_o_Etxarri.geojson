@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Echarri_o_Etxarri",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3352839.245295000262558, 2263702.251704999245703 ], [ 3356149.467404999770224, 2263702.251704999245703 ], [ 3356149.467404999770224, 2260707.153694999404252 ], [ 3352839.245295000262558, 2260707.153694999404252 ], [ 3352839.245295000262558, 2263702.251704999245703 ] ] ] } }
+]
+}

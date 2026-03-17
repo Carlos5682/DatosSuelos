@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Avinyonet_del_Penedès",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3626527.737134999129921, 2071985.95776499947533 ], [ 3638532.734565000515431, 2071985.95776499947533 ], [ 3638532.734565000515431, 2059518.290734999347478 ], [ 3626527.737134999129921, 2059518.290734999347478 ], [ 3626527.737134999129921, 2071985.95776499947533 ] ] ] } }
+]
+}

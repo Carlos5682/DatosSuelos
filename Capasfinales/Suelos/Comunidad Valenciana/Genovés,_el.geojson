@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Genovés,_el",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3405113.632524999789894, 1832592.917074999539182 ], [ 3415975.419175, 1832592.917074999539182 ], [ 3415975.419175, 1825829.253125 ], [ 3405113.632524999789894, 1825829.253125 ], [ 3405113.632524999789894, 1832592.917074999539182 ] ] ] } }
+]
+}

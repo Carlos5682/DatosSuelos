@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Graja_de_Campalbo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3350823.898529999423772, 1942103.990570000838488 ], [ 3360098.189270000439137, 1942103.990570000838488 ], [ 3360098.189270000439137, 1935489.861229999456555 ], [ 3350823.898529999423772, 1935489.861229999456555 ], [ 3350823.898529999423772, 1942103.990570000838488 ] ] ] } }
+]
+}

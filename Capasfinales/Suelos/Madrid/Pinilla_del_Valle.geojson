@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Pinilla_del_Valle",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3153288.524015, 2095408.636684999102727 ], [ 3163213.942484999075532, 2095408.636684999102727 ], [ 3163213.942484999075532, 2081324.247014999156818 ], [ 3153288.524015, 2081324.247014999156818 ], [ 3153288.524015, 2095408.636684999102727 ] ] ] } }
+]
+}

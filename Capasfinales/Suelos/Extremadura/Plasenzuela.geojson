@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Plasenzuela",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2936966.523179999552667, 1960912.675019999267533 ], [ 2947892.369520000182092, 1960912.675019999267533 ], [ 2947892.369520000182092, 1949639.89558 ], [ 2936966.523179999552667, 1949639.89558 ], [ 2936966.523179999552667, 1960912.675019999267533 ] ] ] } }
+]
+}

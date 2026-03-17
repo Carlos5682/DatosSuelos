@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Eulalia_de_Gállego",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3426928.414379999507219, 2198540.331220000516623 ], [ 3436122.38651999970898, 2198540.331220000516623 ], [ 3436122.38651999970898, 2187872.98257999913767 ], [ 3426928.414379999507219, 2187872.98257999913767 ], [ 3426928.414379999507219, 2198540.331220000516623 ] ] ] } }
+]
+}

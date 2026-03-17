@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Alcudia_de_Veo",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3427344.077355000656098, 1934588.653245000634342 ], [ 3442157.892345000524074, 1934588.653245000634342 ], [ 3442157.892345000524074, 1926042.772755000274628 ], [ 3427344.077355000656098, 1926042.772755000274628 ], [ 3427344.077355000656098, 1934588.653245000634342 ] ] ] } }
+]
+}

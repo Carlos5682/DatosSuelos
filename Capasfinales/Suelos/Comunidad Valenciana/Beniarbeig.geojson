@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Beniarbeig",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3446056.01437, 1808576.449230000143871 ], [ 3451398.158129999414086, 1808576.449230000143871 ], [ 3451398.158129999414086, 1800995.322170000756159 ], [ 3446056.01437, 1800995.322170000756159 ], [ 3446056.01437, 1808576.449230000143871 ] ] ] } }
+]
+}

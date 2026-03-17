@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Alqueries,_les_o_Alquerías_del_Niño_Perdido",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3448614.478699998930097, 1926972.449899999191985 ], [ 3456781.8509, 1926972.449899999191985 ], [ 3456781.8509, 1920844.11820000060834 ], [ 3448614.478699998930097, 1920844.11820000060834 ], [ 3448614.478699998930097, 1926972.449899999191985 ] ] ] } }
+]
+}

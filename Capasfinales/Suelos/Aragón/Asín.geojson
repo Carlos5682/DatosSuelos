@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Asín",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3406882.574299999512732, 2201168.136000000871718 ], [ 3412530.4019, 2201168.136000000871718 ], [ 3412530.4019, 2191599.096 ], [ 3406882.574299999512732, 2191599.096 ], [ 3406882.574299999512732, 2201168.136000000871718 ] ] ] } }
+]
+}

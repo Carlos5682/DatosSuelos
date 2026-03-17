@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Montmaneu",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3598918.504354999866337, 2101104.537744999397546 ], [ 3607363.697345000226051, 2101104.537744999397546 ], [ 3607363.697345000226051, 2095247.981755000771955 ], [ 3598918.504354999866337, 2095247.981755000771955 ], [ 3598918.504354999866337, 2101104.537744999397546 ] ] ] } }
+]
+}

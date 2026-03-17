@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Beniparrell",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3419442.745515, 1873366.606684999540448 ], [ 3424092.697185000404716, 1873366.606684999540448 ], [ 3424092.697185000404716, 1870816.93771499954164 ], [ 3419442.745515, 1870816.93771499954164 ], [ 3419442.745515, 1873366.606684999540448 ] ] ] } }
+]
+}

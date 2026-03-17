@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Benavent_de_Segrià",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Aridisol", "color": "#F39F86" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3538382.274034999776632, 2116104.496365000959486 ], [ 3543523.252864999230951, 2116104.496365000959486 ], [ 3543523.252864999230951, 2111557.240935000125319 ], [ 3538382.274034999776632, 2111557.240935000125319 ], [ 3538382.274034999776632, 2116104.496365000959486 ] ] ] } }
+]
+}

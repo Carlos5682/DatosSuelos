@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Montesinos,_Los",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Aridisol", "color": "#F39F86" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3369727.655320000369102, 1731785.235580000560731 ], [ 3377451.61088, 1731785.235580000560731 ], [ 3377451.61088, 1723793.712819999549538 ], [ 3369727.655320000369102, 1723793.712819999549538 ], [ 3369727.655320000369102, 1731785.235580000560731 ] ] ] } }
+]
+}

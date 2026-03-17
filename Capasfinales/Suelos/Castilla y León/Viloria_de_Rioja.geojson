@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Viloria_de_Rioja",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3242905.092405000235885, 2243883.929295000154525 ], [ 3247584.843294999096543, 2243883.929295000154525 ], [ 3247584.843294999096543, 2235198.554805000778288 ], [ 3242905.092405000235885, 2235198.554805000778288 ], [ 3242905.092405000235885, 2243883.929295000154525 ] ] ] } }
+]
+}

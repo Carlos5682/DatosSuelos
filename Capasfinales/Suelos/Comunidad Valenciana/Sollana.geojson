@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sollana",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3418387.227730000857264, 1866999.12057 ], [ 3429130.337969999294728, 1866999.12057 ], [ 3429130.337969999294728, 1854680.690029999474064 ], [ 3418387.227730000857264, 1854680.690029999474064 ], [ 3418387.227730000857264, 1866999.12057 ] ] ] } }
+]
+}

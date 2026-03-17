@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Albalá",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2920664.020755, 1951008.382944999728352 ], [ 2930824.158144999761134, 1951008.382944999728352 ], [ 2930824.158144999761134, 1942058.943755000364035 ], [ 2920664.020755, 1942058.943755000364035 ], [ 2920664.020755, 1951008.382944999728352 ] ] ] } }
+]
+}

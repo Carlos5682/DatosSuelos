@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Perafita",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3663380.069609999656677, 2143515.46679 ], [ 3670014.595690000802279, 2143515.46679 ], [ 3670014.595690000802279, 2134862.36441 ], [ 3663380.069609999656677, 2134862.36441 ], [ 3663380.069609999656677, 2143515.46679 ] ] ] } }
+]
+}

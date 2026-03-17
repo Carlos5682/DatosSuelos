@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Ciriza_o_Ziritza",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3352756.779629999771714, 2264891.798669999465346 ], [ 3357316.48257, 2264891.798669999465346 ], [ 3357316.48257, 2261589.830730000510812 ], [ 3352756.779629999771714, 2261589.830730000510812 ], [ 3352756.779629999771714, 2264891.798669999465346 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Peralejos_de_Arriba",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2949766.336229999549687, 2142975.289770000614226 ], [ 2959581.312570000998676, 2142975.289770000614226 ], [ 2959581.312570000998676, 2133653.316529999487102 ], [ 2949766.336229999549687, 2133653.316529999487102 ], [ 2949766.336229999549687, 2142975.289770000614226 ] ] ] } }
+]
+}

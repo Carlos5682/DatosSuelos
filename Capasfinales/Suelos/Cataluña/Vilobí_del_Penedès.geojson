@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Vilobí_del_Penedès",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3619851.352870000526309, 2073449.93362999917008 ], [ 3626127.017330000177026, 2073449.93362999917008 ], [ 3626127.017330000177026, 2067443.139769999077544 ], [ 3619851.352870000526309, 2067443.139769999077544 ], [ 3619851.352870000526309, 2073449.93362999917008 ] ] ] } }
+]
+}

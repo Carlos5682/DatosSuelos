@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Huérmeces_del_Cerro",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3243021.25497999927029, 2089320.831620000768453 ], [ 3251524.849819999653846, 2089320.831620000768453 ], [ 3251524.849819999653846, 2082787.030380000825971 ], [ 3243021.25497999927029, 2082787.030380000825971 ], [ 3243021.25497999927029, 2089320.831620000768453 ] ] ] } }
+]
+}

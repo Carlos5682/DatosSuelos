@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Llocnou_d'En_Fenollet",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3410883.913435000926256, 1832963.582265000790358 ], [ 3412818.880465000867844, 1832963.582265000790358 ], [ 3412818.880465000867844, 1830742.393035000190139 ], [ 3410883.913435000926256, 1830742.393035000190139 ], [ 3410883.913435000926256, 1832963.582265000790358 ] ] ] } }
+]
+}

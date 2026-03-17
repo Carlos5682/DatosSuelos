@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Santa_Margarida_i_els_Monjos",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3618482.822399999480695, 2066806.649900001008064 ], [ 3624946.470500000286847, 2066806.649900001008064 ], [ 3624946.470500000286847, 2058094.234499999787658 ], [ 3618482.822399999480695, 2058094.234499999787658 ], [ 3618482.822399999480695, 2066806.649900001008064 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Gizaburuaga",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3303914.216325, 2333737.524675000458956 ], [ 3309302.904175000265241, 2333737.524675000458956 ], [ 3309302.904175000265241, 2329089.912724999710917 ], [ 3303914.216325, 2329089.912724999710917 ], [ 3303914.216325, 2333737.524675000458956 ] ] ] } }
+]
+}

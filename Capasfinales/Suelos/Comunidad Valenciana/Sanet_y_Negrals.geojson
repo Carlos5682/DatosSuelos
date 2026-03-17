@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sanet_y_Negrals",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3445786.955095, 1806917.347804999211803 ], [ 3448697.109904999379069, 1806917.347804999211803 ], [ 3448697.109904999379069, 1803818.854095000540838 ], [ 3445786.955095, 1803818.854095000540838 ], [ 3445786.955095, 1806917.347804999211803 ] ] ] } }
+]
+}

@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Torre_de_Fontaubella,_La",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3549179.841624999418855, 2050556.487275000661612 ], [ 3555597.276675000786781, 2050556.487275000661612 ], [ 3555597.276675000786781, 2046870.029324999079108 ], [ 3549179.841624999418855, 2046870.029324999079108 ], [ 3549179.841624999418855, 2050556.487275000661612 ] ] ] } }
+]
+}

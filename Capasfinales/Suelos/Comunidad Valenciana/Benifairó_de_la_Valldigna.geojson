@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Benifairó_de_la_Valldigna",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Entisol", "color": "#ACD19C" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 3422468.898715000599623, 1840752.729284999892116 ], [ 3431009.453284999355674, 1840752.729284999892116 ], [ 3431009.453284999355674, 1829238.187415 ], [ 3422468.898715000599623, 1829238.187415 ], [ 3422468.898715000599623, 1840752.729284999892116 ] ] ] } }
+]
+}

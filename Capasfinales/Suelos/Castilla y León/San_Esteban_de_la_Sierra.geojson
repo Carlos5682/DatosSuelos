@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "San_Esteban_de_la_Sierra",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3035" } },
+"features": [
+{ "type": "Feature", "properties": { "orden": "Inceptisol", "color": "#FBF6BA" }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 2974614.265190000645816, 2079716.147209999151528 ], [ 2984075.773610000498593, 2079716.147209999151528 ], [ 2984075.773610000498593, 2072972.810290000401437 ], [ 2974614.265190000645816, 2072972.810290000401437 ], [ 2974614.265190000645816, 2079716.147209999151528 ] ] ] } }
+]
+}
